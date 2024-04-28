@@ -5,7 +5,8 @@ from pathlib import Path
 from typing import Iterable, List, Optional, Union
 
 import g2p_en
-import jamo
+# import jamo
+from espnet2.text.g2p_vi_v1 import G2p_vi_v1
 from packaging.version import parse as V
 from typeguard import typechecked
 
@@ -15,34 +16,9 @@ g2p_choices = [
     None,
     "g2p_en",
     "g2p_en_no_space",
-    "pyopenjtalk",
-    "pyopenjtalk_kana",
-    "pyopenjtalk_accent",
-    "pyopenjtalk_accent_with_pause",
-    "pyopenjtalk_prosody",
-    "pypinyin_g2p",
-    "pypinyin_g2p_phone",
-    "pypinyin_g2p_phone_without_prosody",
-    "espeak_ng_arabic",
-    "espeak_ng_german",
-    "espeak_ng_french",
-    "espeak_ng_spanish",
-    "espeak_ng_russian",
-    "espeak_ng_greek",
-    "espeak_ng_finnish",
-    "espeak_ng_hungarian",
-    "espeak_ng_dutch",
-    "espeak_ng_english_us_vits",
-    "espeak_ng_hindi",
-    "espeak_ng_italian",
-    "espeak_ng_ukrainian",
-    "espeak_ng_polish",
-    "g2pk",
-    "g2pk_no_space",
-    "g2pk_explicit_space",
-    "korean_jaso",
-    "korean_jaso_no_space",
-    "g2p_is",
+    "g2p_vi_v1",
+    "g2p_vi_v1_no_space",
+    "g2p_vi_v2"
 ]
 
 
@@ -260,6 +236,39 @@ class G2p_en:
         phones = self.g2p(text)
         if self.no_space:
             # remove space which represents word serapater
+            phones = list(filter(lambda s: s != " ", phones))
+        return phones
+
+class g2p_vi_v1:
+    """G2p_vi_v1
+    """
+
+    def __init__(self, no_space: bool = False):
+        self.no_space = no_space
+        self.g2p = None
+
+    def __call__(self, text) -> List[str]:
+        if self.g2p is None:
+            self.g2p = G2p_vi_v1()
+
+        phones = self.g2p(text)
+        if self.no_space:
+            # remove space which represents word serapater
+            phones = list(filter(lambda s: s != " ", phones))
+        return phones
+
+class g2p_vi_v2:
+    """G2p_vi_v2
+    """
+
+    def __init__(self, no_space: bool = False):
+        self.no_space = no_space
+        self.g2p = None
+
+    def __call__(self, text) -> List[str]:
+        from viphoneme import vi2IPA_split
+        phones = vi2IPA_split(text, delimit="/").strip("/").split("/")
+        if self.no_space:
             phones = list(filter(lambda s: s != " ", phones))
         return phones
 
@@ -577,6 +586,12 @@ class PhonemeTokenizer(AbsTokenizer):
             self.g2p = IsG2p()
         elif g2p_type == "g2p_is_north":
             self.g2p = IsG2p(dialect="north")
+        elif g2p_type == "g2p_vi_v1":
+            self.g2p = g2p_vi_v1()
+        elif g2p_type == "g2p_vi_v1_no_space":
+            self.g2p = g2p_vi_v1(no_space=True)
+        elif g2p_type == "g2p_vi_v2":
+            self.g2p = g2p_vi_v2()
         else:
             raise NotImplementedError(f"Not supported: g2p_type={g2p_type}")
 

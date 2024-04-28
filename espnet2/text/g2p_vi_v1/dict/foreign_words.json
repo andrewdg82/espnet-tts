@@ -1,0 +1,5794 @@
+{
+    "acetylcholine": {
+        "phoneme": "AH S EH T AH L K OW L IY N",
+        "vietlish": "a-xê-ti-cô-lin"
+    },
+    "activision": {
+        "phoneme": "AE K T IH V IH ZH AH N",
+        "vietlish": "ắc-ti-vi-dừn"
+    },
+    "adams": {
+        "phoneme": "AE D AH M Z",
+        "vietlish": "a-đam"
+    },
+    "adaptive": {
+        "phoneme": "AH D AE P T IH V",
+        "vietlish": "ơ-đáp-típ"
+    },
+    "adrift": {
+        "phoneme": "AH D R IH F T",
+        "vietlish": "ét-ríp"
+    },
+    "advances": {
+        "phoneme": "AH D V AE N S IH Z",
+        "vietlish": "ất-ven-tít"
+    },
+    "adventurer": {
+        "phoneme": "AE D V EH N CH ER ER",
+        "vietlish": "át-ven-chờ-rờ"
+    },
+    "adélie": {
+        "phoneme": "AE D L IY",
+        "vietlish": "a-đê-li-ê"
+    },
+    "aegyptiacus": {
+        "phoneme": "AH JH IH P SH IY AA K AH S",
+        "vietlish": "ê-díp-ti-a-cút"
+    },
+    "aethiops": {
+        "phoneme": "EH TH IY AA P S",
+        "vietlish": "ê-thi-ốp"
+    },
+    "age": {
+        "phoneme": "EY JH",
+        "vietlish": "ết"
+    },
+    "aim": {
+        "phoneme": "EY M",
+        "vietlish": "êm"
+    },
+    "air": {
+        "phoneme": "EH R",
+        "vietlish": "e"
+    },
+    "airborne": {
+        "phoneme": "EH R B AO R N",
+        "vietlish": "e-bần"
+    },
+    "airbus": {
+        "phoneme": "EH R B AH S",
+        "vietlish": "e-bớt"
+    },
+    "airpods": {
+        "phoneme": "EH R P AA D Z",
+        "vietlish": "e-pót"
+    },
+    "alberta": {
+        "phoneme": "AE L B ER T AH",
+        "vietlish": "a-bơ-ta"
+    },
+    "album": {
+        "phoneme": "AE L B AH M",
+        "vietlish": "an-bum"
+    },
+    "alder": {
+        "phoneme": "AO L D ER",
+        "vietlish": "an-đờ"
+    },
+    "alessandro": {
+        "phoneme": "AA L AH S AE N D R OW",
+        "vietlish": "a-lết-xan-đô"
+    },
+    "alex": {
+        "phoneme": "AE L AH K S",
+        "vietlish": "a-lếch"
+    },
+    "alexander": {
+        "phoneme": "AE L IH G Z AE N D ER",
+        "vietlish": "a-lếch-san-đơ"
+    },
+    "alfred": {
+        "phoneme": "AE L F R IH D",
+        "vietlish": "a-phờ-rét"
+    },
+    "alice": {
+        "phoneme": "AE L IH S",
+        "vietlish": "a-lít"
+    },
+    "alien": {
+        "phoneme": "EY L IY AH N",
+        "vietlish": "ai-li-ần"
+    },
+    "alison": {
+        "phoneme": "AE L IH S AH N",
+        "vietlish": "a-li-sơn"
+    },
+    "all": {
+        "phoneme": "AO L",
+        "vietlish": "ôn"
+    },
+    "allan": {
+        "phoneme": "AE L AH N",
+        "vietlish": "a-lừn"
+    },
+    "alpha": {
+        "phoneme": "AE L F AH",
+        "vietlish": "an-pha"
+    },
+    "aluminate": {
+        "phoneme": "AH L UW M AH N EY T",
+        "vietlish": "a-lu-mi-nết"
+    },
+    "aluminum": {
+        "phoneme": "AH L UW M AH N AH M",
+        "vietlish": "a-lu-ni-ầm"
+    },
+    "alzheimer": {
+        "phoneme": "AA L T S HH AY M ER",
+        "vietlish": "an-dây-mơ"
+    },
+    "amanda": {
+        "phoneme": "AH M AE N D AH",
+        "vietlish": "ờ-man-đa"
+    },
+    "amazon": {
+        "phoneme": "AE M AH Z AA N",
+        "vietlish": "a-ma-dôn"
+    },
+    "amoco": {
+        "phoneme": "AE M AH K OW",
+        "vietlish": "a-môn-cô"
+    },
+    "amoled": {
+        "phoneme": "AH-M-OW-L-D",
+        "vietlish": "a-mô-lét"
+    },
+    "amor": {
+        "phoneme": "AE M ER",
+        "vietlish": "ơ-mơ"
+    },
+    "analytics": {
+        "phoneme": "AE N AH L IH T IH K S",
+        "vietlish": "e-nơ-lai-tích"
+    },
+    "anbio": {
+        "phoneme": "AE N B IY OW",
+        "vietlish": "an-bai-ô"
+    },
+    "and": {
+        "phoneme": "AE N D",
+        "vietlish": "en"
+    },
+    "androgen": {
+        "phoneme": "AE N D R AH JH AH N",
+        "vietlish": "an-đờ-rô-den"
+    },
+    "android": {
+        "phoneme": "AE N D R OY D",
+        "vietlish": "an-roi"
+    },
+    "andrzej": {
+        "phoneme": "AA N D R EY",
+        "vietlish": "an-đờ-rên"
+    },
+    "aneco": {
+        "phoneme": "AE N EH K OW",
+        "vietlish": "an-i-cô"
+    },
+    "angela": {
+        "phoneme": "AE N JH AH L AH",
+        "vietlish": "an-dê-la"
+    },
+    "angeles": {
+        "phoneme": "AE N JH AH L IH S",
+        "vietlish": "an-giơ-lét"
+    },
+    "angwe": {
+        "phoneme": "AA NG G W IY",
+        "vietlish": "eng-guy"
+    },
+    "animal": {
+        "phoneme": "AE N AH M AH L",
+        "vietlish": "e-ni-mồ"
+    },
+    "anime": {
+        "phoneme": "AA N AH M",
+        "vietlish": "a-ni-mê"
+    },
+    "ann": {
+        "phoneme": "AE N",
+        "vietlish": "an"
+    },
+    "anode": {
+        "phoneme": "AE N OW D",
+        "vietlish": "ây-nốt"
+    },
+    "anpro": {
+        "phoneme": "AE N P R OW",
+        "vietlish": "an-pờ-rồ"
+    },
+    "antena": {
+        "phoneme": "AE-N-T-EH-N-AH",
+        "vietlish": "an-tê-na"
+    },
+    "anti": {
+        "phoneme": "AE N T AY",
+        "vietlish": "an-ti"
+    },
+    "anton": {
+        "phoneme": "AE N T AO N",
+        "vietlish": "an-tôn"
+    },
+    "anura": {
+        "phoneme": "AA N UH R AH",
+        "vietlish": "a-nu-ra"
+    },
+    "apertus": {
+        "phoneme": "AE P ER T AH S",
+        "vietlish": "a-pơ-tớt"
+    },
+    "apex": {
+        "phoneme": "EY P EH K S",
+        "vietlish": "a-pếch"
+    },
+    "app": {
+        "phoneme": "AE P",
+        "vietlish": "áp"
+    },
+    "apple": {
+        "phoneme": "AE P AH L",
+        "vietlish": "áp-pồ"
+    },
+    "appstore": {
+        "phoneme": "AE P S T AO R",
+        "vietlish": "áp-sờ-to"
+    },
+    "arcade": {
+        "phoneme": "AA R K EY D",
+        "vietlish": "a-kết"
+    },
+    "arena": {
+        "phoneme": "ER IY N AH",
+        "vietlish": "ờ-re-nà"
+    },
+    "argentina": {
+        "phoneme": "AA R JH AH N T IY N AH",
+        "vietlish": "ác-hen-ti-na"
+    },
+    "argo": {
+        "phoneme": "AA R G OW",
+        "vietlish": "a-gô"
+    },
+    "argonne": {
+        "phoneme": "AA R G AA N",
+        "vietlish": "a-gôn-ni"
+    },
+    "aristotle": {
+        "phoneme": "EH R AH S T AA T AH L",
+        "vietlish": "a-rít-tô-tồ"
+    },
+    "arizona": {
+        "phoneme": "EH R IH Z OW N AH",
+        "vietlish": "a-ri-dô-na"
+    },
+    "ark": {
+        "phoneme": "AA R K",
+        "vietlish": "ác"
+    },
+    "arknights": {
+        "phoneme": "AA R K N AY T S",
+        "vietlish": "ác-nai"
+    },
+    "army": {
+        "phoneme": "AA R M IY",
+        "vietlish": "a-mi"
+    },
+    "arrow": {
+        "phoneme": "AE R OW",
+        "vietlish": "a-râu"
+    },
+    "asha": {
+        "phoneme": "AE SH AH",
+        "vietlish": "át-sa"
+    },
+    "ashanti": {
+        "phoneme": "AE SH AE N T IY",
+        "vietlish": "a-san-ti"
+    },
+    "ashima": {
+        "phoneme": "AH SH IY M AH",
+        "vietlish": "a-si-ma"
+    },
+    "asperger": {
+        "phoneme": "AE S P ER G ER",
+        "vietlish": "át-pơ-giơ"
+    },
+    "assassin": {
+        "phoneme": "AH S AE S AH N",
+        "vietlish": "ờ-sa-sừn"
+    },
+    "assault": {
+        "phoneme": "AH S AO L T",
+        "vietlish": "a-so"
+    },
+    "asset": {
+        "phoneme": "AE S EH T",
+        "vietlish": "ác-sét"
+    },
+    "astrazeneca": {
+        "phoneme": "AE S T R AH Z EH N EH K AH",
+        "vietlish": "át-tra-dê-nê-ca"
+    },
+    "atena": {
+        "phoneme": "AA T EH N AH",
+        "vietlish": "an-tê-na"
+    },
+    "atlantic": {
+        "phoneme": "AH T L AE N T IH K",
+        "vietlish": "át-lan-tích"
+    },
+    "atmosphere": {
+        "phoneme": "AE T M AH S F IH R",
+        "vietlish": "ất-mốt-phia"
+    },
+    "atreus": {
+        "phoneme": "AE T R IY AH S",
+        "vietlish": "ây-chu"
+    },
+    "audit": {
+        "phoneme": "AO D IH T",
+        "vietlish": "au-đớt"
+    },
+    "august": {
+        "phoneme": "AA G AH S T",
+        "vietlish": "o-gớt"
+    },
+    "australia": {
+        "phoneme": "AO S T R EY L Y AH",
+        "vietlish": "ốt-trây-li-a"
+    },
+    "austria": {
+        "phoneme": "AO S T R IY AH",
+        "vietlish": "ốt-chuy-a"
+    },
+    "auth": {
+        "phoneme": "AO TH",
+        "vietlish": "au"
+    },
+    "authority": {
+        "phoneme": "AH TH AO R AH T IY",
+        "vietlish": "au-tho-ri-ty"
+    },
+    "auto": {
+        "phoneme": "AO T OW",
+        "vietlish": "au-tu"
+    },
+    "automata": {
+        "phoneme": "AO T AA M AH T AH",
+        "vietlish": "au-tô-ma-tờ"
+    },
+    "avery": {
+        "phoneme": "EY V ER IY",
+        "vietlish": "ây-vê-ri"
+    },
+    "award": {
+        "phoneme": "AH W AO R D",
+        "vietlish": "ơ-goát"
+    },
+    "awards": {
+        "phoneme": "AH W AO R D Z",
+        "vietlish": "ơ-guất"
+    },
+    "axie": {
+        "phoneme": "AE K S IY",
+        "vietlish": "ách-xai"
+    },
+    "axios": {
+        "phoneme": "AE K S IY OW Z",
+        "vietlish": "ây-xi-ớt"
+    },
+    "ayaka": {
+        "phoneme": "AH Y AA K AH",
+        "vietlish": "a-da-ca"
+    },
+    "azur": {
+        "phoneme": "AE Z ER",
+        "vietlish": "ây-giờ"
+    },
+    "azza": {
+        "phoneme": "AE Z AH",
+        "vietlish": "a-da"
+    },
+    "baird": {
+        "phoneme": "B EH R D",
+        "vietlish": "bát"
+    },
+    "bandai": {
+        "phoneme": "B AE N D AY",
+        "vietlish": "ben-đai"
+    },
+    "bank": {
+        "phoneme": "B AE NG K",
+        "vietlish": "banh"
+    },
+    "bankii": {
+        "phoneme": "B AE NG K IY",
+        "vietlish": "banh-ki"
+    },
+    "banner": {
+        "phoneme": "B AE N ER",
+        "vietlish": "ben-nờ"
+    },
+    "bar": {
+        "phoneme": "B AA R",
+        "vietlish": "ba"
+    },
+    "barmer": {
+        "phoneme": "B AA R M ER",
+        "vietlish": "bam-mơ"
+    },
+    "bathymetry": {
+        "phoneme": "B AE TH IH M AH T R IY",
+        "vietlish": "bát-thi-me-tri"
+    },
+    "battle": {
+        "phoneme": "B AE T AH L",
+        "vietlish": "bát-tồ"
+    },
+    "bay": {
+        "phoneme": "B EY",
+        "vietlish": "bây"
+    },
+    "bbluring": {
+        "phoneme": "B L UH R IH NG",
+        "vietlish": "bi-bi-lơ-rinh"
+    },
+    "beat": {
+        "phoneme": "B IY T",
+        "vietlish": "bít"
+    },
+    "before": {
+        "phoneme": "B IH F AO R",
+        "vietlish": "bi-pho"
+    },
+    "begins": {
+        "phoneme": "B IH G IH N Z",
+        "vietlish": "bi-ghin"
+    },
+    "bel": {
+        "phoneme": "B EH L",
+        "vietlish": "beo"
+    },
+    "belletête": {
+        "phoneme": "B IH L EH T",
+        "vietlish": "beo-lơ-tết"
+    },
+    "bellular": {
+        "phoneme": "B EH L Y AH L ER",
+        "vietlish": "be-lu-lờ"
+    },
+    "benchmark": {
+        "phoneme": "B EH N CH M AA R K",
+        "vietlish": "ben-mác"
+    },
+    "benjamin": {
+        "phoneme": "B EH N JH AH M AH N",
+        "vietlish": "ben-da-min"
+    },
+    "bennett": {
+        "phoneme": "B EH N AH T",
+        "vietlish": "ben-nét"
+    },
+    "bering": {
+        "phoneme": "B EH R IH NG",
+        "vietlish": "be-rinh"
+    },
+    "berkshire": {
+        "phoneme": "B ER K SH AY R",
+        "vietlish": "bớt-sai"
+    },
+    "beta": {
+        "phoneme": "B EY T AH",
+        "vietlish": "bê-ta"
+    },
+    "bethesda": {
+        "phoneme": "B AH TH EH Z D AH",
+        "vietlish": "bi-tét-đa"
+    },
+    "between": {
+        "phoneme": "B IH T W IY N",
+        "vietlish": "bít-thuyn"
+    },
+    "bhoot": {
+        "phoneme": "B UW T",
+        "vietlish": "bờ-hút"
+    },
+    "biden": {
+        "phoneme": "B AY D AH N",
+        "vietlish": "bai-đừn"
+    },
+    "big": {
+        "phoneme": "B IH G",
+        "vietlish": "bích"
+    },
+    "bill": {
+        "phoneme": "B IH L",
+        "vietlish": "biu"
+    },
+    "binance": {
+        "phoneme": "B AY N AH N S",
+        "vietlish": "bi-nen"
+    },
+    "bing": {
+        "phoneme": "B-IH-NG",
+        "vietlish": "binh"
+    },
+    "biology": {
+        "phoneme": "B AY AA L AH JH IY",
+        "vietlish": "bai-o-lo-di"
+    },
+    "biontech": {
+        "phoneme": "B AY OW N T EH K",
+        "vietlish": "bi-ô-en-tếch"
+    },
+    "bioplastics": {
+        "phoneme": "B AY AH P L AE S T IH K S",
+        "vietlish": "bai-ô-pờ-lát-tích"
+    },
+    "bitcoin": {
+        "phoneme": "B IH T K OY N",
+        "vietlish": "bít-con"
+    },
+    "biz": {
+        "phoneme": "B-IH-Z",
+        "vietlish": "bít"
+    },
+    "blackberry": {
+        "phoneme": "B L AE K B EH R IY",
+        "vietlish": "bờ-lách-be-ri"
+    },
+    "blast": {
+        "phoneme": "B L AE S T",
+        "vietlish": "bờ-lát"
+    },
+    "blind": {
+        "phoneme": "B L AY N D",
+        "vietlish": "bờ-lai"
+    },
+    "blizzard": {
+        "phoneme": "B L IH Z ER D",
+        "vietlish": "biu-dát"
+    },
+    "block": {
+        "phoneme": "B L AA K",
+        "vietlish": "bờ-lốc"
+    },
+    "blockchain": {
+        "phoneme": "B L AA K SH EY N",
+        "vietlish": "bờ-lốc-chên"
+    },
+    "blog": {
+        "phoneme": "B L AA G",
+        "vietlish": "bờ-loóc"
+    },
+    "blood": {
+        "phoneme": "B L AH D",
+        "vietlish": "bờ-lát"
+    },
+    "bloodborne": {
+        "phoneme": "B L AH D B AO R N",
+        "vietlish": "bờ-lắt-bon"
+    },
+    "bloomberg": {
+        "phoneme": "B L UW M B ER G",
+        "vietlish": "bờ-lum-bớc"
+    },
+    "blue": {
+        "phoneme": "B L UW",
+        "vietlish": "bờ-lu"
+    },
+    "bluetooth": {
+        "phoneme": "B L UW T UW TH",
+        "vietlish": "bờ-lu-tút"
+    },
+    "board": {
+        "phoneme": "B AO R D",
+        "vietlish": "bót"
+    },
+    "bob": {
+        "phoneme": "B AA B",
+        "vietlish": "bóp"
+    },
+    "body": {
+        "phoneme": "B AA D IY",
+        "vietlish": "ba-đì"
+    },
+    "boldly": {
+        "phoneme": "B OW L D L IY",
+        "vietlish": "bâu-li"
+    },
+    "boom": {
+        "phoneme": "B UW M",
+        "vietlish": "bum"
+    },
+    "boombox": {
+        "phoneme": "B UH M B AA K S",
+        "vietlish": "bum-bốc"
+    },
+    "boring": {
+        "phoneme": "B AO R IH NG",
+        "vietlish": "bo-rinh"
+    },
+    "borne": {
+        "phoneme": "B AO R N",
+        "vietlish": "bon"
+    },
+    "boss": {
+        "phoneme": "B AA S",
+        "vietlish": "bót"
+    },
+    "bot": {
+        "phoneme": "B AA T",
+        "vietlish": "bót"
+    },
+    "botswana": {
+        "phoneme": "B AA T S W AA N AH",
+        "vietlish": "bốt-goa-na"
+    },
+    "bowling": {
+        "phoneme": "B OW L IH NG",
+        "vietlish": "bâu-linh"
+    },
+    "box": {
+        "phoneme": "B AA K S",
+        "vietlish": "bóc"
+    },
+    "boy": {
+        "phoneme": "B-OY",
+        "vietlish": "boi"
+    },
+    "brachycephalus": {
+        "phoneme": "B R AE K AH S EH F AH L AH S",
+        "vietlish": "bờ-ra-chi-sơ-pha-lút"
+    },
+    "brazil": {
+        "phoneme": "B R AH Z IH L",
+        "vietlish": "bờ-ra-din"
+    },
+    "break": {
+        "phoneme": "B R EY K",
+        "vietlish": "bờ-rếch"
+    },
+    "brendan": {
+        "phoneme": "B R EH N D AH N",
+        "vietlish": "bờ-ren-đần"
+    },
+    "brennan": {
+        "phoneme": "B R EH N AH N",
+        "vietlish": "bờ-ren-nan"
+    },
+    "brisbane": {
+        "phoneme": "B R IH Z B EY N",
+        "vietlish": "bờ-rít-bên"
+    },
+    "bristol": {
+        "phoneme": "B R IH S T AH L",
+        "vietlish": "bờ-rít-tôn"
+    },
+    "brokeback": {
+        "phoneme": "B R OW K B AE K",
+        "vietlish": "bờ-rốc-bách"
+    },
+    "bromance": {
+        "phoneme": "B R OW M AH N S",
+        "vietlish": "bờ-rô-mần"
+    },
+    "brother": {
+        "phoneme": "B R AH DH ER",
+        "vietlish": "bờ-roa-dờ"
+    },
+    "brouwer": {
+        "phoneme": "B R AW W ER",
+        "vietlish": "bờ-râu-ờ"
+    },
+    "buffett": {
+        "phoneme": "B AH F IH T",
+        "vietlish": "bắp-phết"
+    },
+    "bug": {
+        "phoneme": "B AH G",
+        "vietlish": "bắc"
+    },
+    "bugs": {
+        "phoneme": "B AH G Z",
+        "vietlish": "bắc"
+    },
+    "bungie": {
+        "phoneme": "B AH NG G IY",
+        "vietlish": "ban-di"
+    },
+    "business": {
+        "phoneme": "B IH Z N AH S",
+        "vietlish": "bi-di-nít"
+    },
+    "buy": {
+        "phoneme": "B AY",
+        "vietlish": "bai"
+    },
+    "cabin": {
+        "phoneme": "K AE B AH N",
+        "vietlish": "ca-bin"
+    },
+    "cacbon": {
+        "phoneme": "K AE K B AH N",
+        "vietlish": "các-bon"
+    },
+    "calamity": {
+        "phoneme": "K AH L AE M AH T IY",
+        "vietlish": "ke-lơ-mơ-ti"
+    },
+    "califonia": {
+        "phoneme": "K AE L AH F OW N Y AH",
+        "vietlish": "ca-li-phoóc-ni-a"
+    },
+    "california": {
+        "phoneme": "K AE L AH F AO R N Y AH",
+        "vietlish": "ke-li-phoóc-ni-a"
+    },
+    "call": {
+        "phoneme": "K AO L",
+        "vietlish": "côn"
+    },
+    "calo": {
+        "phoneme": "K AA L OW",
+        "vietlish": "ca-lo"
+    },
+    "calvert": {
+        "phoneme": "K-AE-L-V-ER-T",
+        "vietlish": "ca-vớt"
+    },
+    "cambre": {
+        "phoneme": "K AE M B ER",
+        "vietlish": "cam-bờ-ri"
+    },
+    "camera": {
+        "phoneme": "K AE M ER AH",
+        "vietlish": "ca-mê-ra"
+    },
+    "canada": {
+        "phoneme": "K AE N AH D AH",
+        "vietlish": "ca-na-đa"
+    },
+    "cancers": {
+        "phoneme": "K AE N S ER Z",
+        "vietlish": "ken-sờ"
+    },
+    "candy": {
+        "phoneme": "K AE N D IY",
+        "vietlish": "ken-đi"
+    },
+    "canxi": {
+        "phoneme": "K AE NG K S IY",
+        "vietlish": "can-xi"
+    },
+    "capcom": {
+        "phoneme": "K AE P K AH M",
+        "vietlish": "cáp-com"
+    },
+    "capital": {
+        "phoneme": "K AE P IH T AH L",
+        "vietlish": "cáp-pi-tồ"
+    },
+    "car": {
+        "phoneme": "K AA R",
+        "vietlish": "ca"
+    },
+    "carbohydrate": {
+        "phoneme": "K AA R B OW HH AY D R AH T",
+        "vietlish": "các-bon-hi-đờ-rát"
+    },
+    "carbon": {
+        "phoneme": "K AA R B AH N",
+        "vietlish": "các-bon"
+    },
+    "caribe": {
+        "phoneme": "K AA R IY B",
+        "vietlish": "ca-ri-bê"
+    },
+    "carolina": {
+        "phoneme": "K EH R AH L AY N AH",
+        "vietlish": "ca-rô-li-na"
+    },
+    "carplay": {
+        "phoneme": "K AA R P L EY",
+        "vietlish": "ca-pờ-lây"
+    },
+    "carvet": {
+        "phoneme": "K AA R V AH T",
+        "vietlish": "ca-vớt"
+    },
+    "casey": {
+        "phoneme": "K EY S IY",
+        "vietlish": "ca-si"
+    },
+    "cassette": {
+        "phoneme": "K AH S EH T",
+        "vietlish": "cát-xét"
+    },
+    "casual": {
+        "phoneme": "K AE ZH AH W AH L",
+        "vietlish": "ke-dùa"
+    },
+    "cell": {
+        "phoneme": "S EH L",
+        "vietlish": "xeo"
+    },
+    "celosaurus": {
+        "phoneme": "S EH L AH S AO R AH S",
+        "vietlish": "xê-lô-sau-rút"
+    },
+    "cenedese": {
+        "phoneme": "S EH N IH D IY Z",
+        "vietlish": "xê-nê-đê"
+    },
+    "cent": {
+        "phoneme": "S EH N T",
+        "vietlish": "xen"
+    },
+    "center": {
+        "phoneme": "S EH N ER",
+        "vietlish": "xen-tờ"
+    },
+    "centimet": {
+        "phoneme": "S EH N T AH M EH T",
+        "vietlish": "xăng-ti-mét"
+    },
+    "centimeter": {
+        "phoneme": "S EH N T AH M IY T ER",
+        "vietlish": "xăng-ti-mét"
+    },
+    "central": {
+        "phoneme": "S EH N T R AH L",
+        "vietlish": "xen-trồ"
+    },
+    "centrosaurus": {
+        "phoneme": "S EH N T R AH S AO R AH S",
+        "vietlish": "xen-trô-sa-rớt"
+    },
+    "cercopithecus": {
+        "phoneme": "S ER K AH P IH TH AH K AH S",
+        "vietlish": "xơ-cô-pi-thê-cút"
+    },
+    "cesium": {
+        "phoneme": "S IY Z IY AH M",
+        "vietlish": "xét-xi-um"
+    },
+    "chacha": {
+        "phoneme": "CH AA CH AH",
+        "vietlish": "cha-cha"
+    },
+    "champion": {
+        "phoneme": "CH AE M P IY AH N",
+        "vietlish": "cham-pừn"
+    },
+    "chat": {
+        "phoneme": "CH AE T",
+        "vietlish": "chát"
+    },
+    "chatham": {
+        "phoneme": "CH AE T AH M",
+        "vietlish": "cha-tham"
+    },
+    "cheat": {
+        "phoneme": "CH IY T",
+        "vietlish": "chít"
+    },
+    "chevron": {
+        "phoneme": "SH EH V R AA N",
+        "vietlish": "che-vờ-rừn"
+    },
+    "chi": {
+        "phoneme": "K AY",
+        "vietlish": "chi"
+    },
+    "chicxulub": {
+        "phoneme": "CH IH K SH UW L AH B",
+        "vietlish": "chích-xu-lắp"
+    },
+    "china": {
+        "phoneme": "CH AY N AH",
+        "vietlish": "chai-nờ"
+    },
+    "chip": {
+        "phoneme": "CH IH P",
+        "vietlish": "chíp"
+    },
+    "chipset": {
+        "phoneme": "CH IH P S IH T",
+        "vietlish": "chíp-sét"
+    },
+    "cholesterol": {
+        "phoneme": "K AH L EH S T ER AH L",
+        "vietlish": "cơ-rét-tê-rôn"
+    },
+    "christian": {
+        "phoneme": "K R IH S CH AH N",
+        "vietlish": "cờ-ruýt-ti-ừn"
+    },
+    "chrome": {
+        "phoneme": "K R OW M",
+        "vietlish": "cờ-rôm"
+    },
+    "chucxulub": {
+        "phoneme": "CH AH K SH UW L AH B",
+        "vietlish": "chúc-xu-lắp"
+    },
+    "ciesek": {
+        "phoneme": "CH EH S EH K",
+        "vietlish": "xi-e-xếch"
+    },
+    "ciri": {
+        "phoneme": "S ER IY",
+        "vietlish": "ki-ri"
+    },
+    "citi": {
+        "phoneme": "S IH T IY",
+        "vietlish": "xi-ti"
+    },
+    "citron": {
+        "phoneme": "S IH T R AH N",
+        "vietlish": "truy-cờ-rông"
+    },
+    "city": {
+        "phoneme": "S IH T IY",
+        "vietlish": "xi-ti"
+    },
+    "clan": {
+        "phoneme": "K L AE N",
+        "vietlish": "cờ-lan"
+    },
+    "clans": {
+        "phoneme": "K L AE N Z",
+        "vietlish": "cờ-lan"
+    },
+    "clash": {
+        "phoneme": "K L AE SH",
+        "vietlish": "cờ-lát"
+    },
+    "classic": {
+        "phoneme": "K L AE S IH K",
+        "vietlish": "cờ-lát-xích"
+    },
+    "clearing": {
+        "phoneme": "K L IH R IH NG",
+        "vietlish": "cờ-lia-rinh"
+    },
+    "click": {
+        "phoneme": "K L IH K",
+        "vietlish": "cờ-lích"
+    },
+    "clinic": {
+        "phoneme": "K L IH N IH K",
+        "vietlish": "cờ-li-ních"
+    },
+    "clip": {
+        "phoneme": "K L IH P",
+        "vietlish": "cờ-líp"
+    },
+    "closed": {
+        "phoneme": "K L OW Z D",
+        "vietlish": "cờ-lâu"
+    },
+    "cloud": {
+        "phoneme": "K L AW D",
+        "vietlish": "cờ-lao"
+    },
+    "club": {
+        "phoneme": "K-L-AH-B",
+        "vietlish": "cờ-lắp"
+    },
+    "co": {
+        "phoneme": "K OW",
+        "vietlish": "câu"
+    },
+    "coban": {
+        "phoneme": "K OW B AH N",
+        "vietlish": "cô-ban"
+    },
+    "cocktail": {
+        "phoneme": "K AA K T EY L",
+        "vietlish": "cốc-theo"
+    },
+    "cocobay": {
+        "phoneme": "K OW K OW B EY",
+        "vietlish": "cô-cô-bay"
+    },
+    "code": {
+        "phoneme": "K OW D",
+        "vietlish": "cốt"
+    },
+    "codename": {
+        "phoneme": "K AH D EH N AH M",
+        "vietlish": "cốt-nêm"
+    },
+    "cody": {
+        "phoneme": "K OW D IY",
+        "vietlish": "câu-đi"
+    },
+    "coffee": {
+        "phoneme": "K AA F IY",
+        "vietlish": "cóp-phi"
+    },
+    "coin": {
+        "phoneme": "K-OY-N",
+        "vietlish": "coi"
+    },
+    "college": {
+        "phoneme": "K AA L IH JH",
+        "vietlish": "co-lít"
+    },
+    "colombia": {
+        "phoneme": "K AH L AH M B IY AH",
+        "vietlish": "cô-lôm-bi-a"
+    },
+    "combat": {
+        "phoneme": "K AA M B AE T",
+        "vietlish": "com-bát"
+    },
+    "combo": {
+        "phoneme": "K AA M B OW",
+        "vietlish": "côm-bô"
+    },
+    "comeback": {
+        "phoneme": "K AH M B AE K",
+        "vietlish": "căm-bách"
+    },
+    "comple": {
+        "phoneme": "K AA M P AH L",
+        "vietlish": "com-lê"
+    },
+    "complex": {
+        "phoneme": "K-AA-M-P-L-EH-K-S",
+        "vietlish": "com-pờ-lếch"
+    },
+    "compost": {
+        "phoneme": "K AA M P OW S T",
+        "vietlish": "com-pót"
+    },
+    "concept": {
+        "phoneme": "K AA N S EH P T",
+        "vietlish": "con-xép"
+    },
+    "condotel": {
+        "phoneme": "K AA N D OW T EH L",
+        "vietlish": "côn-đô-theo"
+    },
+    "conjurer": {
+        "phoneme": "K AA N JH ER",
+        "vietlish": "còn-chơ-rờ"
+    },
+    "conoco": {
+        "phoneme": "K AA N AH K OW",
+        "vietlish": "cô-nôn-cô"
+    },
+    "conplex": {
+        "phoneme": "K AA N P L EH K S",
+        "vietlish": "com-pờ-lếch"
+    },
+    "console": {
+        "phoneme": "K AA N S OW L",
+        "vietlish": "con-sâu"
+    },
+    "consumer": {
+        "phoneme": "K AH N S UW M ER",
+        "vietlish": "cờn-som-mờ"
+    },
+    "conters": {
+        "phoneme": "K AH N T ER Z",
+        "vietlish": "con-tờ"
+    },
+    "cook": {
+        "phoneme": "K UH K",
+        "vietlish": "cúc"
+    },
+    "coop": {
+        "phoneme": "K UW P",
+        "vietlish": "câu-ốp"
+    },
+    "copy": {
+        "phoneme": "K AA P IY",
+        "vietlish": "cóp-pi"
+    },
+    "core": {
+        "phoneme": "K AO R",
+        "vietlish": "co"
+    },
+    "cornell": {
+        "phoneme": "K AO R N EH L",
+        "vietlish": "cô-neo"
+    },
+    "corp": {
+        "phoneme": "K AO R P",
+        "vietlish": "cốp"
+    },
+    "counter": {
+        "phoneme": "K AW N T ER",
+        "vietlish": "cao-tơ"
+    },
+    "country": {
+        "phoneme": "K AH N T R IY",
+        "vietlish": "căn-tri"
+    },
+    "cov": {
+        "phoneme": "K AH V",
+        "vietlish": "cô-vi"
+    },
+    "cover": {
+        "phoneme": "K AH V ER",
+        "vietlish": "câu-vờ"
+    },
+    "covid": {
+        "phoneme": "K-OW-V-IH-D",
+        "vietlish": "cô-vít"
+    },
+    "cozy": {
+        "phoneme": "K OW Z IY",
+        "vietlish": "cô-di"
+    },
+    "crack": {
+        "phoneme": "K R AE K",
+        "vietlish": "cờ-rách"
+    },
+    "craft": {
+        "phoneme": "K R AE F T",
+        "vietlish": "cờ-ráp"
+    },
+    "craig": {
+        "phoneme": "K R EY G",
+        "vietlish": "cờ-rai"
+    },
+    "creator": {
+        "phoneme": "K R IY EY T ER",
+        "vietlish": "cờ-ri-ây-đờ"
+    },
+    "creed": {
+        "phoneme": "K R IY D",
+        "vietlish": "cờ-rít"
+    },
+    "cross": {
+        "phoneme": "K R AO S",
+        "vietlish": "cờ-rót"
+    },
+    "crossing": {
+        "phoneme": "K R AO S IH NG",
+        "vietlish": "cờ-rót-xinh"
+    },
+    "crown": {
+        "phoneme": "K R AW N",
+        "vietlish": "cờ-rao"
+    },
+    "crush": {
+        "phoneme": "K R AH SH",
+        "vietlish": "cờ-rát"
+    },
+    "crypto": {
+        "phoneme": "K R IH P T OW",
+        "vietlish": "cờ-ríp-tô"
+    },
+    "cter": {
+        "phoneme": "K T ER",
+        "vietlish": "xê-tơ"
+    },
+    "cuba": {
+        "phoneme": "K Y UW B AH",
+        "vietlish": "cu-ba"
+    },
+    "cuisine": {
+        "phoneme": "K W IH Z IY N",
+        "vietlish": "cua-din"
+    },
+    "cup": {
+        "phoneme": "K AH P",
+        "vietlish": "cắp"
+    },
+    "cure": {
+        "phoneme": "K Y UH R",
+        "vietlish": "cơ"
+    },
+    "currency": {
+        "phoneme": "K ER AH N S IY",
+        "vietlish": "cơ-rần-xi"
+    },
+    "current": {
+        "phoneme": "K AA R AH N T",
+        "vietlish": "cơ-rừn"
+    },
+    "cyber": {
+        "phoneme": "S AY B ER",
+        "vietlish": "xai-bờ"
+    },
+    "cyberpunk": {
+        "phoneme": "S AY B ER P AH NG K",
+        "vietlish": "xai-bờ-păng"
+    },
+    "cytosponge": {
+        "phoneme": "S AY T AO S P AA N JH",
+        "vietlish": "xi-tốt-pông"
+    },
+    "cytotoxic": {
+        "phoneme": "S AY T AH T AA K S IH K",
+        "vietlish": "xi-tơ-toóc-xích"
+    },
+    "dabin": {
+        "phoneme": "D AE B IH N",
+        "vietlish": "đa-bin"
+    },
+    "daily": {
+        "phoneme": "D EY L IY",
+        "vietlish": "đai-li"
+    },
+    "daimler": {
+        "phoneme": "D EH M L ER",
+        "vietlish": "đêm-lờ"
+    },
+    "dakota": {
+        "phoneme": "D AH K OW T AH",
+        "vietlish": "đa-cô-ta"
+    },
+    "damned": {
+        "phoneme": "D AE M D",
+        "vietlish": "đam"
+    },
+    "dan": {
+        "phoneme": "D AE N",
+        "vietlish": "đan"
+    },
+    "dark": {
+        "phoneme": "D AA R K",
+        "vietlish": "đắc"
+    },
+    "darkside": {
+        "phoneme": "D AA R K S AY D",
+        "vietlish": "đắc-sai"
+    },
+    "data": {
+        "phoneme": "D AE T AH",
+        "vietlish": "đa-ta"
+    },
+    "davis": {
+        "phoneme": "D EY V AH S",
+        "vietlish": "đa-vít"
+    },
+    "dawn": {
+        "phoneme": "D AO N",
+        "vietlish": "đôn"
+    },
+    "day": {
+        "phoneme": "D EY",
+        "vietlish": "đây"
+    },
+    "dayz": {
+        "phoneme": "D EY Z",
+        "vietlish": "đây-di"
+    },
+    "dead": {
+        "phoneme": "D EH D",
+        "vietlish": "đét"
+    },
+    "deadgame": {
+        "phoneme": "D EH D G EY M",
+        "vietlish": "đét-ghêm"
+    },
+    "deal": {
+        "phoneme": "D IY L",
+        "vietlish": "điu"
+    },
+    "death": {
+        "phoneme": "D EH TH",
+        "vietlish": "đét"
+    },
+    "deathmatch": {
+        "phoneme": "D EH TH M AE CH",
+        "vietlish": "đét-mát"
+    },
+    "defense": {
+        "phoneme": "D IH F EH N S",
+        "vietlish": "đì-phen"
+    },
+    "delhi": {
+        "phoneme": "D EH L IY",
+        "vietlish": "đê-hi"
+    },
+    "dell": {
+        "phoneme": "D EH L",
+        "vietlish": "đeo"
+    },
+    "demo": {
+        "phoneme": "D EH M OW",
+        "vietlish": "đề-mô"
+    },
+    "demon": {
+        "phoneme": "D IY M AH N",
+        "vietlish": "đe-mừn"
+    },
+    "dengue": {
+        "phoneme": "D EH N G",
+        "vietlish": "deng-ghi"
+    },
+    "depository": {
+        "phoneme": "D IH P AA Z AH T AO R IY",
+        "vietlish": "đi-pô-dít-chơ-ri"
+    },
+    "destiny": {
+        "phoneme": "D EH S T AH N IY",
+        "vietlish": "đét-ti-ni"
+    },
+    "dethecus": {
+        "phoneme": "D EH TH IH K AH S",
+        "vietlish": "đi-thi-cớt"
+    },
+    "deus": {
+        "phoneme": "D UW S",
+        "vietlish": "đe-ớt"
+    },
+    "devops": {
+        "phoneme": "D EH V AA P S",
+        "vietlish": "đê-vốp"
+    },
+    "diablo": {
+        "phoneme": "D AY AE B L OW",
+        "vietlish": "đai-a-bờ-lô"
+    },
+    "dicalcium": {
+        "phoneme": "D IH K AE L S IY AH M",
+        "vietlish": "đi-can-xi-um"
+    },
+    "die": {
+        "phoneme": "D AY",
+        "vietlish": "đai"
+    },
+    "diesel": {
+        "phoneme": "D IY S AH L",
+        "vietlish": "đi-ô-den"
+    },
+    "diluc": {
+        "phoneme": "D IH L AH K",
+        "vietlish": "đai-lắc"
+    },
+    "dining": {
+        "phoneme": "D AY N IH NG",
+        "vietlish": "đi-ninh"
+    },
+    "dioxide": {
+        "phoneme": "D AY AA K S AY D",
+        "vietlish": "đi-ô-xít"
+    },
+    "direct": {
+        "phoneme": "D AY R EH K T",
+        "vietlish": "đai-rếch"
+    },
+    "discord": {
+        "phoneme": "D IH S K AO R D",
+        "vietlish": "đít-cót"
+    },
+    "disney": {
+        "phoneme": "D IH Z N IY",
+        "vietlish": "đít-ni"
+    },
+    "disneyland": {
+        "phoneme": "D IH Z N IY L AE N D",
+        "vietlish": "dít-ni-len"
+    },
+    "display": {
+        "phoneme": "D IH S P L EY",
+        "vietlish": "đít-pờ-lây"
+    },
+    "divinity": {
+        "phoneme": "D IH V IH N AH T IY",
+        "vietlish": "đờ-vi-ni-ti"
+    },
+    "doge": {
+        "phoneme": "D OW JH",
+        "vietlish": "đoi"
+    },
+    "dogg": {
+        "phoneme": "D AO G",
+        "vietlish": "đoóc"
+    },
+    "dollar": {
+        "phoneme": "D AA L ER",
+        "vietlish": "đô-la"
+    },
+    "dolomites": {
+        "phoneme": "D OW L AH M AY T S",
+        "vietlish": "đô-lô-mai"
+    },
+    "domino": {
+        "phoneme": "D AA M AH N OW",
+        "vietlish": "đô-mi-nô"
+    },
+    "donaldson": {
+        "phoneme": "D AA N AH L D S AH N",
+        "vietlish": "đô-nan-sần"
+    },
+    "doom": {
+        "phoneme": "D UW M",
+        "vietlish": "đum"
+    },
+    "dorsey": {
+        "phoneme": "D AO R S IY",
+        "vietlish": "đô-si"
+    },
+    "doryteuthis": {
+        "phoneme": "D AO R IH T OY TH IH S",
+        "vietlish": "đô-ri-tê-ô-dít"
+    },
+    "drag": {
+        "phoneme": "D R AE G",
+        "vietlish": "đờ-rác"
+    },
+    "dragon": {
+        "phoneme": "D R AE G AH N",
+        "vietlish": "ra-gừn"
+    },
+    "dragons": {
+        "phoneme": "D R AE G AH N Z",
+        "vietlish": "đờ-ra-gần"
+    },
+    "drama": {
+        "phoneme": "D R AA M AH",
+        "vietlish": "đừ-ra-ma"
+    },
+    "dread": {
+        "phoneme": "D R EH D",
+        "vietlish": "đờ-rét"
+    },
+    "dream": {
+        "phoneme": "D R IY M",
+        "vietlish": "đờ-rim"
+    },
+    "dresler": {
+        "phoneme": "D R EH S L ER",
+        "vietlish": "đờ-rét-lơ"
+    },
+    "drive": {
+        "phoneme": "D R AY V",
+        "vietlish": "đờ-rai"
+    },
+    "driver": {
+        "phoneme": "D R AY V ER",
+        "vietlish": "đờ-rai-vơ"
+    },
+    "drop": {
+        "phoneme": "D R AA P",
+        "vietlish": "đờ-rốp"
+    },
+    "dual": {
+        "phoneme": "D UW AH L",
+        "vietlish": "đu-ồ"
+    },
+    "dungeons": {
+        "phoneme": "D AH N JH AH N Z",
+        "vietlish": "đăng-dừn"
+    },
+    "dunne": {
+        "phoneme": "D AH N",
+        "vietlish": "đun"
+    },
+    "duo": {
+        "phoneme": "D UW OW",
+        "vietlish": "điu-ô"
+    },
+    "duty": {
+        "phoneme": "D UW T IY",
+        "vietlish": "điu-ty"
+    },
+    "dying": {
+        "phoneme": "D AY IH NG",
+        "vietlish": "đai-inh"
+    },
+    "dynamite": {
+        "phoneme": "D AY N AH M AY T",
+        "vietlish": "đai-na-mai"
+    },
+    "eagle": {
+        "phoneme": "IY G AH L",
+        "vietlish": "i-gồ"
+    },
+    "earn": {
+        "phoneme": "ER N",
+        "vietlish": "ơn"
+    },
+    "ebola": {
+        "phoneme": "IY B OW L AH",
+        "vietlish": "ê-bô-la"
+    },
+    "economy": {
+        "phoneme": "IH K AA N AH M IY",
+        "vietlish": "i-co-nô-mi"
+    },
+    "eden": {
+        "phoneme": "IY D AH N",
+        "vietlish": "e-đừn"
+    },
+    "edge": {
+        "phoneme": "EH JH",
+        "vietlish": "ét"
+    },
+    "edition": {
+        "phoneme": "AH D IH SH AH N",
+        "vietlish": "e-đi-sừn"
+    },
+    "edwardsville": {
+        "phoneme": "EH D W ER D Z V IH L",
+        "vietlish": "ét-goát-vi-lờ"
+    },
+    "eeden": {
+        "phoneme": "IY D AH N",
+        "vietlish": "i-đen"
+    },
+    "eidos": {
+        "phoneme": "AY D OW Z",
+        "vietlish": "ây-đớt"
+    },
+    "elden": {
+        "phoneme": "EH L D AH N",
+        "vietlish": "e-đần"
+    },
+    "elder": {
+        "phoneme": "EH L D ER",
+        "vietlish": "eo-đơ"
+    },
+    "electro": {
+        "phoneme": "IH L EH K T R OW",
+        "vietlish": "i-lếch-trô"
+    },
+    "electronics": {
+        "phoneme": "IH L EH K T R AA N IH K S",
+        "vietlish": "ê-lếch-trô-ních"
+    },
+    "eleutherodactylus": {
+        "phoneme": "IH L UW TH ER OW D AE K T AH L AH S",
+        "vietlish": "ê-lu-thê-rôn-đắc-ti-lút"
+    },
+    "elf": {
+        "phoneme": "EH L F",
+        "vietlish": "ép"
+    },
+    "eliminator": {
+        "phoneme": "IH L IH M AH N EY T ER",
+        "vietlish": "e-le-mi-nây-tờ"
+    },
+    "elip": {
+        "phoneme": "IY L IH P",
+        "vietlish": "ê-líp"
+    },
+    "elite": {
+        "phoneme": "EY L IY T",
+        "vietlish": "ê-li"
+    },
+    "ellison": {
+        "phoneme": "EH L IH S AH N",
+        "vietlish": "e-li-sừn"
+    },
+    "elon": {
+        "phoneme": "IY L AA N",
+        "vietlish": "e-lừn"
+    },
+    "engine": {
+        "phoneme": "EH N JH AH N",
+        "vietlish": "en-din"
+    },
+    "enix": {
+        "phoneme": "EH N IH K S",
+        "vietlish": "e-ních"
+    },
+    "enovix": {
+        "phoneme": "EH N OW V IH K S",
+        "vietlish": "i-nô-vích"
+    },
+    "entertainment": {
+        "phoneme": "EH N ER T EY N M AH N T",
+        "vietlish": "in-tơ-thên-mừn"
+    },
+    "epic": {
+        "phoneme": "EH P IH K",
+        "vietlish": "i-pích"
+    },
+    "epioteuthis": {
+        "phoneme": "EH P IY OW T AH TH IH S",
+        "vietlish": "ê-pi-ô-tê-u-dít"
+    },
+    "equity": {
+        "phoneme": "EH K W AH T IY",
+        "vietlish": "a-quy-ti"
+    },
+    "ernest": {
+        "phoneme": "ER N AH S T",
+        "vietlish": "ơn-nét"
+    },
+    "esper": {
+        "phoneme": "EH S P ER",
+        "vietlish": "ét-pơ"
+    },
+    "esport": {
+        "phoneme": "EH S P AO R T",
+        "vietlish": "i-sờ-pót"
+    },
+    "esports": {
+        "phoneme": "EH S P AO R T S",
+        "vietlish": "i-sờ-pót"
+    },
+    "essner": {
+        "phoneme": "EH S N ER",
+        "vietlish": "ét-nờ"
+    },
+    "ethereum": {
+        "phoneme": "EH TH ER IY UW M",
+        "vietlish": "e-thơ-rum"
+    },
+    "euro": {
+        "phoneme": "Y UH R AH",
+        "vietlish": "ơ-rô"
+    },
+    "event": {
+        "phoneme": "IH V EH N T",
+        "vietlish": "i-ven"
+    },
+    "everest": {
+        "phoneme": "EH V ER AH S T",
+        "vietlish": "ê-vơ-rét"
+    },
+    "ex": {
+        "phoneme": "EH K S",
+        "vietlish": "ích"
+    },
+    "exxon": {
+        "phoneme": "EH K S AA N",
+        "vietlish": "ách-sần"
+    },
+    "facebook": {
+        "phoneme": "F EY S B UH K",
+        "vietlish": "phây-búc"
+    },
+    "factor": {
+        "phoneme": "F AE K T ER",
+        "vietlish": "phách-tờ"
+    },
+    "fadil": {
+        "phoneme": "F AE D AH L",
+        "vietlish": "pha-đin"
+    },
+    "fairphone": {
+        "phoneme": "F EH R F OW N",
+        "vietlish": "phe-phôn"
+    },
+    "faker": {
+        "phoneme": "F EY K ER",
+        "vietlish": "phếch-cờ"
+    },
+    "family": {
+        "phoneme": "F AE M AH L IY",
+        "vietlish": "pha-mi-li"
+    },
+    "fan": {
+        "phoneme": "F AE N",
+        "vietlish": "phan"
+    },
+    "fanpage": {
+        "phoneme": "F AE N P IH JH",
+        "vietlish": "phen-pết"
+    },
+    "fantasy": {
+        "phoneme": "F AE N AH S IY",
+        "vietlish": "phen-ta-si"
+    },
+    "fanuc": {
+        "phoneme": "F AE N AH K",
+        "vietlish": "pha-núc"
+    },
+    "fares": {
+        "phoneme": "F EH R Z",
+        "vietlish": "pha-rít"
+    },
+    "faros": {
+        "phoneme": "F EH R OW Z",
+        "vietlish": "pha-rốt"
+    },
+    "fast": {
+        "phoneme": "F AE S T",
+        "vietlish": "phát"
+    },
+    "fate": {
+        "phoneme": "F EY T",
+        "vietlish": "phết"
+    },
+    "feet": {
+        "phoneme": "F IY T",
+        "vietlish": "phít"
+    },
+    "felicity": {
+        "phoneme": "F IH L IH S AH T IY",
+        "vietlish": "pheo-xi-ti"
+    },
+    "feroli": {
+        "phoneme": "F ER OW L IY",
+        "vietlish": "phê-lô-ri"
+    },
+    "fifa": {
+        "phoneme": "F AY F AH",
+        "vietlish": "phi-pha"
+    },
+    "file": {
+        "phoneme": "F AY L",
+        "vietlish": "phai"
+    },
+    "filoviridae": {
+        "phoneme": "F IH L OW V IH R IH D EY",
+        "vietlish": "phi-lô-vi-ri-đê"
+    },
+    "final": {
+        "phoneme": "F AY N AH L",
+        "vietlish": "phai-nồ"
+    },
+    "finance": {
+        "phoneme": "F AH N AE N S",
+        "vietlish": "phai-nen"
+    },
+    "find": {
+        "phoneme": "F AY N D",
+        "vietlish": "phai"
+    },
+    "fintech": {
+        "phoneme": "F IH N T EH K",
+        "vietlish": "phin-tếch"
+    },
+    "fire": {
+        "phoneme": "F AY ER",
+        "vietlish": "phai-ờ"
+    },
+    "firmware": {
+        "phoneme": "F ER M W EH R",
+        "vietlish": "phơm-goe"
+    },
+    "first": {
+        "phoneme": "F ER S T",
+        "vietlish": "phớt"
+    },
+    "flagship": {
+        "phoneme": "F L AE G SH IH P",
+        "vietlish": "phờ-lác-síp"
+    },
+    "flare": {
+        "phoneme": "F L EH R",
+        "vietlish": "phờ-le-ờ"
+    },
+    "flash": {
+        "phoneme": "F L AE SH",
+        "vietlish": "phờ-lát"
+    },
+    "flaviviridae": {
+        "phoneme": "F L AE V IH V IH R AH D EY",
+        "vietlish": "phờ-la-vi-vi-ri-đê"
+    },
+    "fletcher": {
+        "phoneme": "F L EH CH ER",
+        "vietlish": "phờ-lét-trờ"
+    },
+    "flex": {
+        "phoneme": "F L EH K S",
+        "vietlish": "phờ-lếch"
+    },
+    "flight": {
+        "phoneme": "F L AY T",
+        "vietlish": "phờ-lai"
+    },
+    "flip": {
+        "phoneme": "F L IH P",
+        "vietlish": "phờ-líp"
+    },
+    "floyd": {
+        "phoneme": "F L OY D",
+        "vietlish": "phờ-loi"
+    },
+    "foad": {
+        "phoneme": "F OW D",
+        "vietlish": "phót"
+    },
+    "fold": {
+        "phoneme": "F OW L D",
+        "vietlish": "phâu"
+    },
+    "food": {
+        "phoneme": "F UW D",
+        "vietlish": "phút"
+    },
+    "for": {
+        "phoneme": "F AO R",
+        "vietlish": "pho"
+    },
+    "ford": {
+        "phoneme": "F AO R D",
+        "vietlish": "phót"
+    },
+    "forsaken": {
+        "phoneme": "F AO R S EY K AH N",
+        "vietlish": "pho-se-cừn"
+    },
+    "fortnite": {
+        "phoneme": "F AO R T N AY T",
+        "vietlish": "phót-nai"
+    },
+    "forza": {
+        "phoneme": "F AO R Z AH",
+        "vietlish": "pho-gia"
+    },
+    "frankfurt": {
+        "phoneme": "F R AE NG K F ER T",
+        "vietlish": "phờ-ranh-phớt"
+    },
+    "frederik": {
+        "phoneme": "F R EH D ER IH K",
+        "vietlish": "phi-đê-rích"
+    },
+    "free": {
+        "phoneme": "F R IY",
+        "vietlish": "phờ-ri"
+    },
+    "freud": {
+        "phoneme": "F R OY D",
+        "vietlish": "phu"
+    },
+    "friederike": {
+        "phoneme": "F R IY D ER IH K",
+        "vietlish": "phi-đe-ri-kê"
+    },
+    "from": {
+        "phoneme": "F R AH M",
+        "vietlish": "phờ-rom"
+    },
+    "frontiers": {
+        "phoneme": "F R AH N T IH R Z",
+        "vietlish": "phăn-tai-ơ"
+    },
+    "full": {
+        "phoneme": "F UH L",
+        "vietlish": "phun"
+    },
+    "fuller": {
+        "phoneme": "F UH L ER",
+        "vietlish": "phu-lơ"
+    },
+    "funny": {
+        "phoneme": "F AH N IY",
+        "vietlish": "phăn-ni"
+    },
+    "fusion": {
+        "phoneme": "F Y UW ZH AH N",
+        "vietlish": "phiu-sừn"
+    },
+    "gacha": {
+        "phoneme": "G AE CH AH",
+        "vietlish": "ga-cha"
+    },
+    "gadir": {
+        "phoneme": "G EY D IH R",
+        "vietlish": "ga-đi"
+    },
+    "galantamine": {
+        "phoneme": "G AH L AE N T AH M IY N",
+        "vietlish": "ga-lan-ta-min"
+    },
+    "galaxy": {
+        "phoneme": "G AE L AH K S IY",
+        "vietlish": "ga-la-xi"
+    },
+    "galison": {
+        "phoneme": "G AE L IH S AH N",
+        "vietlish": "ga-li-sừn"
+    },
+    "gall": {
+        "phoneme": "G AO L",
+        "vietlish": "gao"
+    },
+    "gallon": {
+        "phoneme": "G AE L AH N",
+        "vietlish": "ga-lông"
+    },
+    "game": {
+        "phoneme": "G EY M",
+        "vietlish": "ghêm"
+    },
+    "gamefi": {
+        "phoneme": "G AH M EH F IY",
+        "vietlish": "ghêm-phai"
+    },
+    "gameplay": {
+        "phoneme": "G EY M P L EY",
+        "vietlish": "ghêm-pờ-lây"
+    },
+    "gamer": {
+        "phoneme": "G EY M ER",
+        "vietlish": "ghêm-mờ"
+    },
+    "games": {
+        "phoneme": "G EY M Z",
+        "vietlish": "ghêm"
+    },
+    "gaming": {
+        "phoneme": "G EY M IH NG",
+        "vietlish": "ghêm-minh"
+    },
+    "gara": {
+        "phoneme": "G AE R AH",
+        "vietlish": "ga-ra"
+    },
+    "garage": {
+        "phoneme": "G-ER-AA-ZH",
+        "vietlish": "ga-ra"
+    },
+    "garena": {
+        "phoneme": "G R IY N AH",
+        "vietlish": "ga-re-na"
+    },
+    "gas": {
+        "phoneme": "G AE S",
+        "vietlish": "ga"
+    },
+    "gate": {
+        "phoneme": "G EY T",
+        "vietlish": "ghết"
+    },
+    "geekbench": {
+        "phoneme": "G IY K B EH N CH",
+        "vietlish": "ghích-ben"
+    },
+    "geforce": {
+        "phoneme": "JH EH F AO R S",
+        "vietlish": "dê-phoóc"
+    },
+    "gelsinger": {
+        "phoneme": "G EH L S IH N JH ER",
+        "vietlish": "gheo-xinh-gơ"
+    },
+    "gen": {
+        "phoneme": "JH EH N",
+        "vietlish": "gien"
+    },
+    "generals": {
+        "phoneme": "JH EH N ER AH L Z",
+        "vietlish": "gien-nờ-rồ"
+    },
+    "genshin": {
+        "phoneme": "G EH N SH IH N",
+        "vietlish": "ghen-sim"
+    },
+    "geographic": {
+        "phoneme": "JH IY AH G R AE F IH K",
+        "vietlish": "di-o-gờ-ráp-phích"
+    },
+    "george": {
+        "phoneme": "JH AO R JH",
+        "vietlish": "gio"
+    },
+    "geralt": {
+        "phoneme": "JH EH R AH L T",
+        "vietlish": "ghê-ra"
+    },
+    "ghana": {
+        "phoneme": "G AE N AH",
+        "vietlish": "ga-na"
+    },
+    "ghibli": {
+        "phoneme": "G IH B L IY",
+        "vietlish": "ghi-bờ-li"
+    },
+    "ghost": {
+        "phoneme": "G OW S T",
+        "vietlish": "gốt"
+    },
+    "gigabyte": {
+        "phoneme": "G IH G AH B AY T",
+        "vietlish": "ghi-ga-bai"
+    },
+    "gigatonne": {
+        "phoneme": "JH IH G AH T OW N IY",
+        "vietlish": "ghi-ga-tông"
+    },
+    "gilman": {
+        "phoneme": "G IH L M AH N",
+        "vietlish": "ghiu-men"
+    },
+    "gimbal": {
+        "phoneme": "G IH M B AH L",
+        "vietlish": "ghim-bồ"
+    },
+    "gina": {
+        "phoneme": "JH IY N AH",
+        "vietlish": "di-na"
+    },
+    "gingerbread": {
+        "phoneme": "JH IH N JH ER B R EH D",
+        "vietlish": "ghinh-gơ-bờ-rét"
+    },
+    "girl": {
+        "phoneme": "G ER L",
+        "vietlish": "gơ"
+    },
+    "glacier": {
+        "phoneme": "G L EY SH ER",
+        "vietlish": "gờ-la-xi-ơ"
+    },
+    "glass": {
+        "phoneme": "G L AE S",
+        "vietlish": "gờ-lát"
+    },
+    "global": {
+        "phoneme": "G L OW B AH L",
+        "vietlish": "gờ-lâu-bờ"
+    },
+    "glucose": {
+        "phoneme": "G L UW K OW S",
+        "vietlish": "gờ-lu-cô"
+    },
+    "god": {
+        "phoneme": "G AA D",
+        "vietlish": "gót"
+    },
+    "golden": {
+        "phoneme": "G OW L D AH N",
+        "vietlish": "gâu-đừn"
+    },
+    "goldstein": {
+        "phoneme": "G OW L D S T AY N",
+        "vietlish": "gót-sờ-tên"
+    },
+    "goodman": {
+        "phoneme": "G UH D M AH N",
+        "vietlish": "gút-men"
+    },
+    "google": {
+        "phoneme": "G UW G AH L",
+        "vietlish": "gu-gồ"
+    },
+    "gothic": {
+        "phoneme": "G AA TH IH K",
+        "vietlish": "gâu-thích"
+    },
+    "gram": {
+        "phoneme": "G R AE M",
+        "vietlish": "gờ-ram"
+    },
+    "grand": {
+        "phoneme": "G R AE N D",
+        "vietlish": "gờ-ren"
+    },
+    "grantham": {
+        "phoneme": "G R AE N TH AH M",
+        "vietlish": "gờ-ran-tham"
+    },
+    "graphite": {
+        "phoneme": "G R AE F AY T",
+        "vietlish": "gờ-ra-phai"
+    },
+    "gray": {
+        "phoneme": "G-R-EY",
+        "vietlish": "gờ-rây"
+    },
+    "greed": {
+        "phoneme": "G R IY D",
+        "vietlish": "gờ-rít"
+    },
+    "green": {
+        "phoneme": "G R IY N",
+        "vietlish": "gờ-rin"
+    },
+    "greenland": {
+        "phoneme": "G R IY N L AE N D",
+        "vietlish": "gò-rin-len"
+    },
+    "grey": {
+        "phoneme": "G R EY",
+        "vietlish": "gờ-rây"
+    },
+    "ground": {
+        "phoneme": "G R AW N D",
+        "vietlish": "gờ-rao"
+    },
+    "group": {
+        "phoneme": "G R UW P",
+        "vietlish": "gờ-rúp"
+    },
+    "guadian": {
+        "phoneme": "G W AA D IY AH N",
+        "vietlish": "goa-đi-ừn"
+    },
+    "guardian": {
+        "phoneme": "G AA R D IY AH N",
+        "vietlish": "ga-đi-ần"
+    },
+    "guinness": {
+        "phoneme": "G IH N AH S",
+        "vietlish": "ghi-nét"
+    },
+    "gujarat": {
+        "phoneme": "G Y UW JH ER AE T",
+        "vietlish": "gu-cha-rát"
+    },
+    "gunbound": {
+        "phoneme": "G AH N B AW N D",
+        "vietlish": "găn-bao"
+    },
+    "gundam": {
+        "phoneme": "G AH N D AH M",
+        "vietlish": "gun-đam"
+    },
+    "gurpreet": {
+        "phoneme": "G ER P R IY T",
+        "vietlish": "gờ-ra-pít"
+    },
+    "gygabyte": {
+        "phoneme": "G AY G AH B AY T",
+        "vietlish": "gi-ga-bai"
+    },
+    "gym": {
+        "phoneme": "JH IH M",
+        "vietlish": "dim"
+    },
+    "hack": {
+        "phoneme": "HH AE K",
+        "vietlish": "hách"
+    },
+    "hacker": {
+        "phoneme": "HH AE K ER",
+        "vietlish": "hách-cơ"
+    },
+    "halfmillz": {
+        "phoneme": "HH AE F M IH L Z",
+        "vietlish": "ha-miu"
+    },
+    "hand": {
+        "phoneme": "HH AE N D",
+        "vietlish": "hen"
+    },
+    "harbour": {
+        "phoneme": "HH AA R B ER",
+        "vietlish": "ha-bơ"
+    },
+    "harrold": {
+        "phoneme": "HH EH R AH L D",
+        "vietlish": "ha-rồ"
+    },
+    "harvard": {
+        "phoneme": "HH AA R V ER D",
+        "vietlish": "ha-vớt"
+    },
+    "hashtag": {
+        "phoneme": "HH-AE-SH-T-AH-G",
+        "vietlish": "hát-tác"
+    },
+    "hathaway": {
+        "phoneme": "HH AE TH AH W EY",
+        "vietlish": "ha-tha-guây"
+    },
+    "hawk": {
+        "phoneme": "HH AO K",
+        "vietlish": "hoóc"
+    },
+    "hawthorne": {
+        "phoneme": "HH AO TH AO R N",
+        "vietlish": "hau-thôn"
+    },
+    "haze": {
+        "phoneme": "HH EY Z",
+        "vietlish": "hây"
+    },
+    "heads": {
+        "phoneme": "HH EH D Z",
+        "vietlish": "hét"
+    },
+    "health": {
+        "phoneme": "HH EH L TH",
+        "vietlish": "heo"
+    },
+    "healthy": {
+        "phoneme": "HH EH L TH IY",
+        "vietlish": "heo-thi"
+    },
+    "hecta": {
+        "phoneme": "HH EH K T AH",
+        "vietlish": "héc-ta"
+    },
+    "hell": {
+        "phoneme": "HH EH L",
+        "vietlish": "heo"
+    },
+    "hellblade": {
+        "phoneme": "HH EH L B L EY D",
+        "vietlish": "heo-bết"
+    },
+    "help": {
+        "phoneme": "HH EH L P",
+        "vietlish": "hép"
+    },
+    "henrietta": {
+        "phoneme": "HH EH N R IY EH T AH",
+        "vietlish": "hen-ri-ê-ta"
+    },
+    "hense": {
+        "phoneme": "HH EH N S",
+        "vietlish": "hen"
+    },
+    "herbert": {
+        "phoneme": "HH ER B ER T",
+        "vietlish": "hớt-bớt"
+    },
+    "herd": {
+        "phoneme": "HH ER D",
+        "vietlish": "hớt"
+    },
+    "heroes": {
+        "phoneme": "HH IH R OW Z",
+        "vietlish": "hi-râu"
+    },
+    "herpes": {
+        "phoneme": "HH ER P IY Z",
+        "vietlish": "hơ-pét"
+    },
+    "hey": {
+        "phoneme": "HH EY",
+        "vietlish": "hây"
+    },
+    "hidetaka": {
+        "phoneme": "HH IY D EY T AA K AH",
+        "vietlish": "hi-đê-ta-ca"
+    },
+    "hifi": {
+        "phoneme": "HH IY F IY",
+        "vietlish": "hai-phai"
+    },
+    "high": {
+        "phoneme": "HH AY",
+        "vietlish": "hai"
+    },
+    "hill": {
+        "phoneme": "HH IH L",
+        "vietlish": "hiu"
+    },
+    "hiroshima": {
+        "phoneme": "HH IH R OW SH IH M AH",
+        "vietlish": "hi-rô-si-ma"
+    },
+    "histo": {
+        "phoneme": "HH IH S T OW",
+        "vietlish": "hít-tô"
+    },
+    "histotripsy": {
+        "phoneme": "HH IH S T AA T R AH P S IY",
+        "vietlish": "hít-tô-tríp-si"
+    },
+    "hobart": {
+        "phoneme": "HH OW B AA R T",
+        "vietlish": "ho-bát"
+    },
+    "hobson": {
+        "phoneme": "HH AA B S AH N",
+        "vietlish": "hóp-xừn"
+    },
+    "hodgkin": {
+        "phoneme": "HH AA JH K IH N",
+        "vietlish": "hốc-kin"
+    },
+    "holdings": {
+        "phoneme": "HH OW L D IH NG Z",
+        "vietlish": "hâu-đinh"
+    },
+    "hollywood": {
+        "phoneme": "HH AA L IY W UH D",
+        "vietlish": "ho-li-út"
+    },
+    "holy": {
+        "phoneme": "HH OW L IY",
+        "vietlish": "hô-li"
+    },
+    "home": {
+        "phoneme": "HH OW M",
+        "vietlish": "hôm"
+    },
+    "honda": {
+        "phoneme": "HH AO N D AH",
+        "vietlish": "hon-đa"
+    },
+    "honkai": {
+        "phoneme": "HH AO NG K AY",
+        "vietlish": "hon-cai"
+    },
+    "honor": {
+        "phoneme": "AA N ER",
+        "vietlish": "o-nờ"
+    },
+    "hopkins": {
+        "phoneme": "HH AA P K IH N Z",
+        "vietlish": "hóp-kin"
+    },
+    "horizon": {
+        "phoneme": "HH ER AY Z AH N",
+        "vietlish": "ho-ri-dừn"
+    },
+    "hormone": {
+        "phoneme": "HH AO R M OW N",
+        "vietlish": "hóc-môn"
+    },
+    "horror": {
+        "phoneme": "HH AO R ER",
+        "vietlish": "o-nờ"
+    },
+    "hot": {
+        "phoneme": "HH AA T",
+        "vietlish": "hót"
+    },
+    "how": {
+        "phoneme": "HH AW",
+        "vietlish": "hau"
+    },
+    "howard": {
+        "phoneme": "HH AW ER D",
+        "vietlish": "ho-goát"
+    },
+    "hoyoverse": {
+        "phoneme": "HH OY OW V ER S",
+        "vietlish": "hâu-dâu-vớt"
+    },
+    "huawei": {
+        "phoneme": "HH W AA W EY",
+        "vietlish": "hoa-guây"
+    },
+    "hub": {
+        "phoneme": "HH AH B",
+        "vietlish": "hắp"
+    },
+    "hull": {
+        "phoneme": "HH AH L",
+        "vietlish": "hiu"
+    },
+    "human": {
+        "phoneme": "HH Y UW M AH N",
+        "vietlish": "hiu-mừn"
+    },
+    "hunt": {
+        "phoneme": "HH AH N T",
+        "vietlish": "hăn"
+    },
+    "hutchinson": {
+        "phoneme": "HH AH CH IH N S AH N",
+        "vietlish": "hút-chin-sơn"
+    },
+    "hydro": {
+        "phoneme": "HH AY D R OW",
+        "vietlish": "hi-đờ-rô"
+    },
+    "hydrophone": {
+        "phoneme": "HH AY D R AH F OW N",
+        "vietlish": "hi-đờ-rô-phôn"
+    },
+    "hyperx": {
+        "phoneme": "HH AY P ER EH K S",
+        "vietlish": "hai-pờ-ích"
+    },
+    "iberia": {
+        "phoneme": "AY B IH R IY AH",
+        "vietlish": "i-be-ri-a"
+    },
+    "icey": {
+        "phoneme": "AY S IY",
+        "vietlish": "ai-xi"
+    },
+    "icon": {
+        "phoneme": "AY K AA N",
+        "vietlish": "ai-con"
+    },
+    "ifeng": {
+        "phoneme": "AY F EH NG",
+        "vietlish": "ai-pheng"
+    },
+    "ifixit": {
+        "phoneme": "AY F IH K S IH T",
+        "vietlish": "ai-phích-xít"
+    },
+    "illinois": {
+        "phoneme": "IH L AH N OY",
+        "vietlish": "i-li-nô-ít"
+    },
+    "imac": {
+        "phoneme": "IH M AE K",
+        "vietlish": "ai-mác"
+    },
+    "immortal": {
+        "phoneme": "IH M AO R T AH L",
+        "vietlish": "im-mo-tồ"
+    },
+    "impact": {
+        "phoneme": "IH M P AE K T",
+        "vietlish": "im-pách"
+    },
+    "imperial": {
+        "phoneme": "IH M P IH R IY AH L",
+        "vietlish": "im-pe-ri-ờ"
+    },
+    "in": {
+        "phoneme": "IH N",
+        "vietlish": "in"
+    },
+    "inception": {
+        "phoneme": "IH N S EH P SH AH N",
+        "vietlish": "in-xép-sừn"
+    },
+    "inch": {
+        "phoneme": "IH N CH",
+        "vietlish": "inh"
+    },
+    "incorporated": {
+        "phoneme": "IH N K AO R P ER EY T IH D",
+        "vietlish": "in-co-pô-rây-tựt"
+    },
+    "index": {
+        "phoneme": "IH N D EH K S",
+        "vietlish": "in-đếch"
+    },
+    "indie": {
+        "phoneme": "IH N D IY",
+        "vietlish": "in-đi"
+    },
+    "indonesia": {
+        "phoneme": "IH N D OW N IY ZH AH",
+        "vietlish": "in-đô-nê-si-a"
+    },
+    "industrial": {
+        "phoneme": "IH N D AH S T R IY AH L",
+        "vietlish": "in-đớt-choai-ồ"
+    },
+    "industries": {
+        "phoneme": "IH N D AH S T R IY Z",
+        "vietlish": "in-đớt-truy"
+    },
+    "industry": {
+        "phoneme": "IH N D AH S T R IY",
+        "vietlish": "in-đát-tri"
+    },
+    "infected": {
+        "phoneme": "IH N F EH K T IH D",
+        "vietlish": "in-phếch-tựt"
+    },
+    "infinite": {
+        "phoneme": "IH N F AH N AH T",
+        "vietlish": "in-phi-nít"
+    },
+    "infinity": {
+        "phoneme": "IH N F IH N IH T IY",
+        "vietlish": "in-phơ-ni-ti"
+    },
+    "infor": {
+        "phoneme": "IH-N-F-ER",
+        "vietlish": "in-pho"
+    },
+    "inox": {
+        "phoneme": "IH N AA K S",
+        "vietlish": "i-nốc"
+    },
+    "insider": {
+        "phoneme": "IH N S AY D ER",
+        "vietlish": "in-si-đờ"
+    },
+    "instruments": {
+        "phoneme": "IH N S T R AH M AH N T S",
+        "vietlish": "in-tru-mừn"
+    },
+    "insulin": {
+        "phoneme": "IH N S AH L AH N",
+        "vietlish": "in-sô-lin"
+    },
+    "intel": {
+        "phoneme": "IH N T EH L",
+        "vietlish": "in-theo"
+    },
+    "interdiction": {
+        "phoneme": "IH N T ER D IH K SH AH N",
+        "vietlish": "in-tơ-dích-sừn"
+    },
+    "international": {
+        "phoneme": "IH N ER N AE SH AH N AA L",
+        "vietlish": "in-tơ-na-sừn-nồ"
+    },
+    "internet": {
+        "phoneme": "IH N T ER N EH T",
+        "vietlish": "in-tơ-nét"
+    },
+    "investment": {
+        "phoneme": "IH N V EH S M AH N T",
+        "vietlish": "in-vét-mừn"
+    },
+    "iodine": {
+        "phoneme": "AY AH D AY N",
+        "vietlish": "i-ô-đin"
+    },
+    "ion": {
+        "phoneme": "AY AA N",
+        "vietlish": "ông"
+    },
+    "ios": {
+        "phoneme": "AY OW S",
+        "vietlish": "ai-âu-ét"
+    },
+    "ipad": {
+        "phoneme": "IY P AE D",
+        "vietlish": "ai-pát"
+    },
+    "ipados": {
+        "phoneme": "IH P AA D OW Z",
+        "vietlish": "ai-pát-ô-ét"
+    },
+    "iphone": {
+        "phoneme": "IH F OW N",
+        "vietlish": "ai-phôn"
+    },
+    "ipod": {
+        "phoneme": "AY P AA D",
+        "vietlish": "ai-pót"
+    },
+    "iron": {
+        "phoneme": "AY ER N",
+        "vietlish": "ai-rừn"
+    },
+    "is": {
+        "phoneme": "IH Z",
+        "vietlish": "i"
+    },
+    "island": {
+        "phoneme": "AY L AH N D",
+        "vietlish": "ai-lừn"
+    },
+    "isocell": {
+        "phoneme": "AY S AH S EH L",
+        "vietlish": "ai-sô-seo"
+    },
+    "isolation": {
+        "phoneme": "AY S AH L EY SH AH N",
+        "vietlish": "ai-sô-lây-sừn"
+    },
+    "israel": {
+        "phoneme": "IH Z R EY L",
+        "vietlish": "ít-sa-reo"
+    },
+    "it": {
+        "phoneme": "IH T",
+        "vietlish": "ít"
+    },
+    "jack": {
+        "phoneme": "JH AE K",
+        "vietlish": "dách"
+    },
+    "jacobs": {
+        "phoneme": "JH EY K AH B Z",
+        "vietlish": "giắc-cốp"
+    },
+    "jacques": {
+        "phoneme": "JH AE K",
+        "vietlish": "dách-quýt"
+    },
+    "james": {
+        "phoneme": "JH EY M Z",
+        "vietlish": "dêm"
+    },
+    "jason": {
+        "phoneme": "JH EY S AH N",
+        "vietlish": "chây-sừn"
+    },
+    "jean": {
+        "phoneme": "JH-IY-N",
+        "vietlish": "gin"
+    },
+    "jedi": {
+        "phoneme": "JH EH D IY",
+        "vietlish": "chê-đi"
+    },
+    "jetson": {
+        "phoneme": "JH EH T S AH N",
+        "vietlish": "chét-sơn"
+    },
+    "jill": {
+        "phoneme": "JH IH L",
+        "vietlish": "diu"
+    },
+    "joe": {
+        "phoneme": "JH OW",
+        "vietlish": "dâu"
+    },
+    "johnathan": {
+        "phoneme": "JH AA N AH TH AH N",
+        "vietlish": "giô-na-than"
+    },
+    "johns": {
+        "phoneme": "JH AA N Z",
+        "vietlish": "chôn"
+    },
+    "jolla": {
+        "phoneme": "HH OY Y AH",
+        "vietlish": "trô-la"
+    },
+    "jonathan": {
+        "phoneme": "JH AA N AH TH AH N",
+        "vietlish": "dô-na-than"
+    },
+    "jordan": {
+        "phoneme": "JH AO R D AH N",
+        "vietlish": "cho-đừn"
+    },
+    "josef": {
+        "phoneme": "JH OW S AH F",
+        "vietlish": "dôn-xép"
+    },
+    "journal": {
+        "phoneme": "JH ER N AH L",
+        "vietlish": "trua-nồ"
+    },
+    "jura": {
+        "phoneme": "JH UH R AH",
+        "vietlish": "du-ra"
+    },
+    "kanninen": {
+        "phoneme": "K AE N IH N AH N",
+        "vietlish": "ca-ni-nừn"
+    },
+    "kaspar": {
+        "phoneme": "K AE S P ER",
+        "vietlish": "cát-pa"
+    },
+    "kathleen": {
+        "phoneme": "K AE TH L IY N",
+        "vietlish": "cát-lin"
+    },
+    "katie": {
+        "phoneme": "K EY T IY",
+        "vietlish": "cây-ti"
+    },
+    "kazuha": {
+        "phoneme": "K AA Z UW HH AH",
+        "vietlish": "ca-du-ha"
+    },
+    "keanu": {
+        "phoneme": "K EY AA N UW",
+        "vietlish": "kên-nu"
+    },
+    "keel": {
+        "phoneme": "K IY L",
+        "vietlish": "kiu"
+    },
+    "kenya": {
+        "phoneme": "K EH N Y AH",
+        "vietlish": "ken-gia"
+    },
+    "keogh": {
+        "phoneme": "K IY AW G",
+        "vietlish": "ki-âu"
+    },
+    "keto": {
+        "phoneme": "K EY T OW",
+        "vietlish": "kê-tô"
+    },
+    "key": {
+        "phoneme": "K-IY",
+        "vietlish": "ki"
+    },
+    "keyboard": {
+        "phoneme": "K IY B AO R D",
+        "vietlish": "ki-bót"
+    },
+    "kharkiv": {
+        "phoneme": "K AA R K IH V",
+        "vietlish": "kha-kíp"
+    },
+    "kilogram": {
+        "phoneme": "K IH L AH G R AE M",
+        "vietlish": "ki-lô-gam"
+    },
+    "kilomet": {
+        "phoneme": "K IH L AH M IH T",
+        "vietlish": "ki-lô-mét"
+    },
+    "kilometer": {
+        "phoneme": "K AH L AA M AH T ER",
+        "vietlish": "ki-lô-mét"
+    },
+    "kin": {
+        "phoneme": "K IH N",
+        "vietlish": "kin"
+    },
+    "king": {
+        "phoneme": "K IH NG",
+        "vietlish": "kinh"
+    },
+    "kings": {
+        "phoneme": "K IH NG Z",
+        "vietlish": "kinh"
+    },
+    "kingston": {
+        "phoneme": "K IH NG S T AH N",
+        "vietlish": "kinh-tơn"
+    },
+    "kissinger": {
+        "phoneme": "K IH S IH N JH ER",
+        "vietlish": "kít-xinh-gơ"
+    },
+    "kittes": {
+        "phoneme": "K IH T S",
+        "vietlish": "kít-tịt"
+    },
+    "klara": {
+        "phoneme": "K L AE R AH",
+        "vietlish": "cờ-la-ra"
+    },
+    "knights": {
+        "phoneme": "N AY T S",
+        "vietlish": "nai"
+    },
+    "knock": {
+        "phoneme": "N AA K",
+        "vietlish": "nốc"
+    },
+    "kokomi": {
+        "phoneme": "K OW K OW M IY",
+        "vietlish": "cô-cô-mi"
+    },
+    "kool": {
+        "phoneme": "K UW L",
+        "vietlish": "cun"
+    },
+    "kratos": {
+        "phoneme": "K R EY T OW S",
+        "vietlish": "cờ-ra-tốt"
+    },
+    "kree": {
+        "phoneme": "K R IY",
+        "vietlish": "cờ-ruy"
+    },
+    "krill": {
+        "phoneme": "K R IH L",
+        "vietlish": "cờ-riu"
+    },
+    "kumawat": {
+        "phoneme": "K UW M AH W AA T",
+        "vietlish": "cu-ma-goát"
+    },
+    "kungfu": {
+        "phoneme": "K AH NG F UW",
+        "vietlish": "cung-phu"
+    },
+    "kuni": {
+        "phoneme": "K Y UW N IY",
+        "vietlish": "cu-ni"
+    },
+    "kuo": {
+        "phoneme": "K UW OW",
+        "vietlish": "cu-ô"
+    },
+    "la": {
+        "phoneme": "L AA",
+        "vietlish": "la"
+    },
+    "laberge": {
+        "phoneme": "L AA B ER G",
+        "vietlish": "la-bớt"
+    },
+    "lacks": {
+        "phoneme": "L AE K S",
+        "vietlish": "lách"
+    },
+    "lake": {
+        "phoneme": "L EY K",
+        "vietlish": "lếch"
+    },
+    "lands": {
+        "phoneme": "L AE N D Z",
+        "vietlish": "len"
+    },
+    "lane": {
+        "phoneme": "L EY N",
+        "vietlish": "lên"
+    },
+    "lantz": {
+        "phoneme": "L AE N T S",
+        "vietlish": "lan"
+    },
+    "lapsus": {
+        "phoneme": "L AE P S AH S",
+        "vietlish": "lắp-sớt"
+    },
+    "laptop": {
+        "phoneme": "L AE P T AA P",
+        "vietlish": "láp-tốp"
+    },
+    "larrison": {
+        "phoneme": "L AE R IH S AH N",
+        "vietlish": "la-ri-sừn"
+    },
+    "larry": {
+        "phoneme": "L EH R IY",
+        "vietlish": "le-ri"
+    },
+    "laura": {
+        "phoneme": "L AO R AH",
+        "vietlish": "lau-ra"
+    },
+    "lavicheats": {
+        "phoneme": "L AE V IH CH IY T S",
+        "vietlish": "la-vi-chít"
+    },
+    "laza": {
+        "phoneme": "L AA Z AH",
+        "vietlish": "la-gia"
+    },
+    "leah": {
+        "phoneme": "L IY AH",
+        "vietlish": "lét"
+    },
+    "left": {
+        "phoneme": "L EH F T",
+        "vietlish": "lép"
+    },
+    "legacy": {
+        "phoneme": "L EH G AH S IY",
+        "vietlish": "lê-ga-xi"
+    },
+    "legends": {
+        "phoneme": "L EH JH AH N D Z",
+        "vietlish": "le-dừn"
+    },
+    "lego": {
+        "phoneme": "L EH G OW",
+        "vietlish": "lê-gô"
+    },
+    "lessoniana": {
+        "phoneme": "L EH S OW N IY AE N AH",
+        "vietlish": "lét-sừn-ni-a-na"
+    },
+    "level": {
+        "phoneme": "L EH V AH L",
+        "vietlish": "le-vồ"
+    },
+    "libor": {
+        "phoneme": "L IY B AO R",
+        "vietlish": "li-bơ"
+    },
+    "lidar": {
+        "phoneme": "L IH D AA R",
+        "vietlish": "lai-đa"
+    },
+    "life": {
+        "phoneme": "L AY F",
+        "vietlish": "lai"
+    },
+    "light": {
+        "phoneme": "L AY T",
+        "vietlish": "lai"
+    },
+    "like": {
+        "phoneme": "L AY K",
+        "vietlish": "lai"
+    },
+    "limbatus": {
+        "phoneme": "L IH M B EY T AH S",
+        "vietlish": "lim-ba-tút"
+    },
+    "line": {
+        "phoneme": "L AY N",
+        "vietlish": "lai"
+    },
+    "link": {
+        "phoneme": "L-IH-NG-K",
+        "vietlish": "linh"
+    },
+    "lipton": {
+        "phoneme": "L IH P T AH N",
+        "vietlish": "líp-tông"
+    },
+    "lithium": {
+        "phoneme": "L IH TH IY AH M",
+        "vietlish": "li-thi-ừm"
+    },
+    "live": {
+        "phoneme": "L AY V",
+        "vietlish": "lai"
+    },
+    "liverpool": {
+        "phoneme": "L IH V ER P UW L",
+        "vietlish": "li-vơ-pun"
+    },
+    "livestream": {
+        "phoneme": "L AY V S T R IY M",
+        "vietlish": "lai-chim"
+    },
+    "lock": {
+        "phoneme": "L AA K",
+        "vietlish": "loóc"
+    },
+    "logic": {
+        "phoneme": "L AA JH IH K",
+        "vietlish": "lô-dích"
+    },
+    "logo": {
+        "phoneme": "L OW G OW",
+        "vietlish": "lô-gô"
+    },
+    "london": {
+        "phoneme": "L AH N D AH N",
+        "vietlish": "lân-đần"
+    },
+    "long": {
+        "phoneme": "L AO NG",
+        "vietlish": "loong"
+    },
+    "look": {
+        "phoneme": "L UH K",
+        "vietlish": "lúc"
+    },
+    "los": {
+        "phoneme": "L AO S",
+        "vietlish": "lốt"
+    },
+    "lost": {
+        "phoneme": "L AO S T",
+        "vietlish": "lốt"
+    },
+    "louis": {
+        "phoneme": "L UW IH S",
+        "vietlish": "lu-ít"
+    },
+    "lucid": {
+        "phoneme": "L UW S IH D",
+        "vietlish": "lu-xít"
+    },
+    "lukos": {
+        "phoneme": "L UW K OW Z",
+        "vietlish": "lu-cốt"
+    },
+    "lumia": {
+        "phoneme": "L UW M IY AH",
+        "vietlish": "lu-mi-na"
+    },
+    "lux": {
+        "phoneme": "L AH K S",
+        "vietlish": "lắc"
+    },
+    "mac": {
+        "phoneme": "M AE K",
+        "vietlish": "mác"
+    },
+    "macbook": {
+        "phoneme": "M AH K B UH K",
+        "vietlish": "mắc-búc"
+    },
+    "macos": {
+        "phoneme": "M EY K OW Z",
+        "vietlish": "mác-ô-ét"
+    },
+    "macworld": {
+        "phoneme": "M AE K W ER L D",
+        "vietlish": "mác-gua"
+    },
+    "maddie": {
+        "phoneme": "M AE D IY",
+        "vietlish": "ma-đi"
+    },
+    "madison": {
+        "phoneme": "M AE D AH S AH N",
+        "vietlish": "ma-đi-xơn"
+    },
+    "magic": {
+        "phoneme": "M AE JH IH K",
+        "vietlish": "ma-dích"
+    },
+    "maglev": {
+        "phoneme": "M AE G L EH V",
+        "vietlish": "ma-gờ-lớp"
+    },
+    "magma": {
+        "phoneme": "M AE G M AH",
+        "vietlish": "mắc-ma"
+    },
+    "magsafe": {
+        "phoneme": "M AE G S EY F",
+        "vietlish": "mác-sếp"
+    },
+    "maharashtra": {
+        "phoneme": "M AA HH ER AA SH T R AH",
+        "vietlish": "ma-ha-rát-tra"
+    },
+    "mail": {
+        "phoneme": "M EY L",
+        "vietlish": "mêu"
+    },
+    "mainline": {
+        "phoneme": "M EY N L AY N",
+        "vietlish": "mên-lai"
+    },
+    "makino": {
+        "phoneme": "M AA K IY N OW",
+        "vietlish": "ma-ki-nô"
+    },
+    "malaysia": {
+        "phoneme": "M AH L EY ZH AH",
+        "vietlish": "ma-lay-si-a"
+    },
+    "man": {
+        "phoneme": "M AE N",
+        "vietlish": "men"
+    },
+    "management": {
+        "phoneme": "M AE N AH JH M AH N T",
+        "vietlish": "me-ne-dờ-mừn"
+    },
+    "manager": {
+        "phoneme": "M AE N AH JH ER",
+        "vietlish": "me-nờ-dờ"
+    },
+    "mango": {
+        "phoneme": "M AE NG G OW",
+        "vietlish": "măng-gồ"
+    },
+    "manning": {
+        "phoneme": "M AE N IH NG",
+        "vietlish": "man-ninh"
+    },
+    "map": {
+        "phoneme": "M AE P",
+        "vietlish": "máp"
+    },
+    "maple": {
+        "phoneme": "M EY P AH L",
+        "vietlish": "máp-pồ"
+    },
+    "maps": {
+        "phoneme": "M AE P S",
+        "vietlish": "máp"
+    },
+    "marburg": {
+        "phoneme": "M AA R B ER G",
+        "vietlish": "ma-bớt"
+    },
+    "marcio": {
+        "phoneme": "M AA R S IY OW",
+        "vietlish": "ma-xi-ô"
+    },
+    "margaritatus": {
+        "phoneme": "M AA R G EH R AH T EY T AH S",
+        "vietlish": "ma-ga-ri-ta-tút"
+    },
+    "marguerite": {
+        "phoneme": "M AA R G ER IY T",
+        "vietlish": "ma-kiu-rít"
+    },
+    "mariana": {
+        "phoneme": "M AA R IY AE N AH",
+        "vietlish": "ma-ri-an-na"
+    },
+    "marie": {
+        "phoneme": "M ER IY",
+        "vietlish": "ma-ri-ê"
+    },
+    "mario": {
+        "phoneme": "M AA R IY OW",
+        "vietlish": "ma-ri-ô"
+    },
+    "mark": {
+        "phoneme": "M AA R K",
+        "vietlish": "mác-gua"
+    },
+    "marketing": {
+        "phoneme": "M AA R K AH T IH NG",
+        "vietlish": "ma-két-tinh"
+    },
+    "marketplace": {
+        "phoneme": "M AA R K AH T P L EY S",
+        "vietlish": "ma-két-pờ-lít"
+    },
+    "mart": {
+        "phoneme": "M AA R T",
+        "vietlish": "mát"
+    },
+    "martin": {
+        "phoneme": "M AA R T AH N",
+        "vietlish": "ma-tin"
+    },
+    "mass": {
+        "phoneme": "M AE S",
+        "vietlish": "mát"
+    },
+    "mat": {
+        "phoneme": "M AE T",
+        "vietlish": "mát"
+    },
+    "match": {
+        "phoneme": "M-AE-CH",
+        "vietlish": "mách"
+    },
+    "matherne": {
+        "phoneme": "M AE TH ER N",
+        "vietlish": "ma-tơn"
+    },
+    "matrix": {
+        "phoneme": "M EY T R IH K S",
+        "vietlish": "ma-trích"
+    },
+    "matsuda": {
+        "phoneme": "M AA T S UW D AH",
+        "vietlish": "mát-su-đa"
+    },
+    "matt": {
+        "phoneme": "M AE T",
+        "vietlish": "mát"
+    },
+    "mavis": {
+        "phoneme": "M EY V IH S",
+        "vietlish": "ma-vít"
+    },
+    "max": {
+        "phoneme": "M AE K S",
+        "vietlish": "mắc"
+    },
+    "may": {
+        "phoneme": "M EY",
+        "vietlish": "mây"
+    },
+    "mayo": {
+        "phoneme": "M EY OW",
+        "vietlish": "ma-dô"
+    },
+    "mccormack": {
+        "phoneme": "M AH K AO R M AH K",
+        "vietlish": "mác-cơ-mác"
+    },
+    "mcmaster": {
+        "phoneme": "M AH K M AE S T ER",
+        "vietlish": "em-xi-mát-tơ"
+    },
+    "mechanics": {
+        "phoneme": "M AH K AE N IH K S",
+        "vietlish": "mơ-xin-ních"
+    },
+    "mechlorethamine": {
+        "phoneme": "M EH K L AO R EH TH AH M AY N",
+        "vietlish": "mếch-lô-rê-tha-min"
+    },
+    "medicine": {
+        "phoneme": "M EH D AH S AH N",
+        "vietlish": "me-đi-xin"
+    },
+    "megabit": {
+        "phoneme": "M-EH-G-AH-B-IH-T",
+        "vietlish": "mê-ga-bít"
+    },
+    "megabyte": {
+        "phoneme": "M EH G AH B AY T",
+        "vietlish": "mê-ga-bít"
+    },
+    "megahertz": {
+        "phoneme": "M EH G AH HH ER T S",
+        "vietlish": "mê-ga-hét"
+    },
+    "megapixel": {
+        "phoneme": "M EH G AH P IH K S AH L",
+        "vietlish": "mê-ga-pích-xeo"
+    },
+    "mekong": {
+        "phoneme": "M EY K AA NG",
+        "vietlish": "mê-công"
+    },
+    "melatonin": {
+        "phoneme": "M EH L AH T OW N IH N",
+        "vietlish": "mê-la-tô-nin"
+    },
+    "melbourne": {
+        "phoneme": "M EH L B AO N",
+        "vietlish": "meo-bơn"
+    },
+    "menethil": {
+        "phoneme": "M EH N IH TH IH L",
+        "vietlish": "me-na-thồ"
+    },
+    "mengshu": {
+        "phoneme": "M EH NG SH UW",
+        "vietlish": "meng-su"
+    },
+    "mercedes": {
+        "phoneme": "M ER S EY D IY Z",
+        "vietlish": "mét-xe-đét"
+    },
+    "mercury": {
+        "phoneme": "M ER K Y ER IY",
+        "vietlish": "mơ-cơ-ri"
+    },
+    "merge": {
+        "phoneme": "M ER JH",
+        "vietlish": "mợt"
+    },
+    "merkel": {
+        "phoneme": "M ER K AH L",
+        "vietlish": "mắc-ken"
+    },
+    "messenger": {
+        "phoneme": "M EH S AH N JH ER",
+        "vietlish": "mét-sen-gơ"
+    },
+    "messier": {
+        "phoneme": "M EH S IY ER",
+        "vietlish": "mét-si-ơ"
+    },
+    "meta": {
+        "phoneme": "M IY T AH",
+        "vietlish": "mê-ta"
+    },
+    "metabolically": {
+        "phoneme": "M EH T AH B AA L IH K L IY",
+        "vietlish": "mê-ta-bo-li-cơ-li"
+    },
+    "metacritic": {
+        "phoneme": "M EH T AH K R IH T IH K",
+        "vietlish": "mê-ta-cờ-ri-tích"
+    },
+    "metaverse": {
+        "phoneme": "M EH T AH V ER S",
+        "vietlish": "mê-ta-vớt"
+    },
+    "metro": {
+        "phoneme": "M EH T R OW",
+        "vietlish": "mê-trô"
+    },
+    "mexico": {
+        "phoneme": "M EH K S AH K OW",
+        "vietlish": "mê-xi-cô"
+    },
+    "michael": {
+        "phoneme": "M AY K AH L",
+        "vietlish": "mai-cồ"
+    },
+    "michigan": {
+        "phoneme": "M IH SH IH G AH N",
+        "vietlish": "mi-chi-gừn"
+    },
+    "micromet": {
+        "phoneme": "M AY K R OW M EH T",
+        "vietlish": "mi-cờ-rô-mét"
+    },
+    "micrometer": {
+        "phoneme": "M-AY-K-R-AA-M-AH-T-ER",
+        "vietlish": "mi-cờ-rô-mét"
+    },
+    "microsoft": {
+        "phoneme": "M AY K R OW S AO F T",
+        "vietlish": "mai-cờ-rô-sốp"
+    },
+    "microtransaction": {
+        "phoneme": "M AY K R OW T R AE N S AE K SH AH N",
+        "vietlish": "mai-cờ-rô-tren-sác-sừn"
+    },
+    "mihoyo": {
+        "phoneme": "M IH HH OY OW",
+        "vietlish": "mi-hâu-dâu"
+    },
+    "miliampe": {
+        "phoneme": "M IH L IY AE M P",
+        "vietlish": "mi-li-am-pe"
+    },
+    "milimet": {
+        "phoneme": "M IH L AH M EH T",
+        "vietlish": "mi-li-mét"
+    },
+    "milimeter": {
+        "phoneme": "M-AH-L-IH-M-IY-T-ER",
+        "vietlish": "mi-li-mét"
+    },
+    "millimeter": {
+        "phoneme": "M IH L AH M IY T ER",
+        "vietlish": "mi-li-mét"
+    },
+    "ming": {
+        "phoneme": "M IH NG",
+        "vietlish": "minh"
+    },
+    "mini": {
+        "phoneme": "M IH N IY",
+        "vietlish": "mi-bi"
+    },
+    "miniled": {
+        "phoneme": "M IH N AY L D",
+        "vietlish": "mi-ni-lét"
+    },
+    "minnesota": {
+        "phoneme": "M IH N IH S OW T AH",
+        "vietlish": "mi-niên-sô-ta"
+    },
+    "minor": {
+        "phoneme": "M AY N ER",
+        "vietlish": "mai-nờ"
+    },
+    "mint": {
+        "phoneme": "M IH N T",
+        "vietlish": "min"
+    },
+    "mirage": {
+        "phoneme": "M ER AA ZH",
+        "vietlish": "mai-rết"
+    },
+    "mishaal": {
+        "phoneme": "M IH S HH AA L",
+        "vietlish": "mi-sa"
+    },
+    "mivina": {
+        "phoneme": "M IY V IY N AH",
+        "vietlish": "mi-vi-na"
+    },
+    "mix": {
+        "phoneme": "M IH K S",
+        "vietlish": "mích"
+    },
+    "mixi": {
+        "phoneme": "M-IH-S-IY",
+        "vietlish": "mi-si"
+    },
+    "miyazaki": {
+        "phoneme": "M IY Y AA Z AA K IY",
+        "vietlish": "mi-a-da-ki"
+    },
+    "moba": {
+        "phoneme": "M OW B AH",
+        "vietlish": "mô-ba"
+    },
+    "mobile": {
+        "phoneme": "M OW B AH L",
+        "vietlish": "mô-bai"
+    },
+    "mobileye": {
+        "phoneme": "M OW B AH L AY",
+        "vietlish": "mô-bai-lai"
+    },
+    "mod": {
+        "phoneme": "M AO D",
+        "vietlish": "mốt"
+    },
+    "modder": {
+        "phoneme": "M AA D ER",
+        "vietlish": "mốt-đờ"
+    },
+    "model": {
+        "phoneme": "M AA D AH L",
+        "vietlish": "mô-đồ"
+    },
+    "modern": {
+        "phoneme": "M AA D ER N",
+        "vietlish": "mô-đừn"
+    },
+    "moderna": {
+        "phoneme": "M OW D EH R N AH",
+        "vietlish": "mô-đừn-na"
+    },
+    "module": {
+        "phoneme": "M AA JH UW L",
+        "vietlish": "mô-đun"
+    },
+    "molina": {
+        "phoneme": "M AH L IY N AH",
+        "vietlish": "mô-li-na"
+    },
+    "monash": {
+        "phoneme": "M AA N AE SH",
+        "vietlish": "mơ-nát"
+    },
+    "monica": {
+        "phoneme": "M AA N IH K AH",
+        "vietlish": "mô-ni-ca"
+    },
+    "montreal": {
+        "phoneme": "M AH N T R IY AO L",
+        "vietlish": "mon-triu"
+    },
+    "moon": {
+        "phoneme": "M UW N",
+        "vietlish": "mun"
+    },
+    "moore": {
+        "phoneme": "M AO R",
+        "vietlish": "mu-ri"
+    },
+    "mordheim": {
+        "phoneme": "M AO R D HH AY M",
+        "vietlish": "mô-hem"
+    },
+    "morgan": {
+        "phoneme": "M AO R G AH N",
+        "vietlish": "mô-gừn"
+    },
+    "morning": {
+        "phoneme": "M AO R N IH NG",
+        "vietlish": "mo-ninh"
+    },
+    "motion": {
+        "phoneme": "M OW SH AH N",
+        "vietlish": "mâu-sừn"
+    },
+    "motorola": {
+        "phoneme": "M OW T ER OW L AH",
+        "vietlish": "mô-tô-rô-la"
+    },
+    "mountain": {
+        "phoneme": "M AW N T AH N",
+        "vietlish": "mao-từn"
+    },
+    "musk": {
+        "phoneme": "M AH S K",
+        "vietlish": "mắc"
+    },
+    "musks": {
+        "phoneme": "M-AH-S-K-S",
+        "vietlish": "mát"
+    },
+    "mustargen": {
+        "phoneme": "M AH S T AA R JH AH N",
+        "vietlish": "mút-ta-ghen"
+    },
+    "my": {
+        "phoneme": "M AY",
+        "vietlish": "mai"
+    },
+    "nakajima": {
+        "phoneme": "N AA K AA JH IY M AH",
+        "vietlish": "na-ca-chi-ma"
+    },
+    "namco": {
+        "phoneme": "N AE M K OW",
+        "vietlish": "nam-cô"
+    },
+    "nano": {
+        "phoneme": "N AA N OW",
+        "vietlish": "na-nô"
+    },
+    "nanomet": {
+        "phoneme": "N AE N AH M EH T",
+        "vietlish": "na-nô-mét"
+    },
+    "nasa": {
+        "phoneme": "N AE S AH",
+        "vietlish": "na-sa"
+    },
+    "nasdaq": {
+        "phoneme": "N AE Z D AE K",
+        "vietlish": "nát-đác"
+    },
+    "national": {
+        "phoneme": "N AE SH AH N AH L",
+        "vietlish": "na-sừn-nồ"
+    },
+    "necromunda": {
+        "phoneme": "N EH K R OW M AH N D AH",
+        "vietlish": "ne-cờ-rô-mun-đa"
+    },
+    "negative": {
+        "phoneme": "N EH G AH T IH V",
+        "vietlish": "ne-ga-típ"
+    },
+    "neighbor": {
+        "phoneme": "N EY B ER",
+        "vietlish": "nây-bờ"
+    },
+    "nejm": {
+        "phoneme": "N EY M",
+        "vietlish": "nây-dừm"
+    },
+    "nekograms": {
+        "phoneme": "N EH K OW G R AE M Z",
+        "vietlish": "nê-cô-gờ-ram"
+    },
+    "nelson": {
+        "phoneme": "N EH L S AH N",
+        "vietlish": "nen-sơn"
+    },
+    "neo": {
+        "phoneme": "N IY OW",
+        "vietlish": "ni-ô"
+    },
+    "neon": {
+        "phoneme": "N IY AA N",
+        "vietlish": "nê-ông"
+    },
+    "nestlé": {
+        "phoneme": "N EH S AH L",
+        "vietlish": "nét-li"
+    },
+    "netflix": {
+        "phoneme": "N EH T F L IH K S",
+        "vietlish": "nét-phờ-lích"
+    },
+    "netmarble": {
+        "phoneme": "N EH T M AA R B AH L",
+        "vietlish": "nét-ma-bồ"
+    },
+    "network": {
+        "phoneme": "N EH T W ER K",
+        "vietlish": "nét-guốc"
+    },
+    "neural": {
+        "phoneme": "N UH R AH L",
+        "vietlish": "nư-rồ"
+    },
+    "new": {
+        "phoneme": "N UW",
+        "vietlish": "niu"
+    },
+    "newbie": {
+        "phoneme": "N UW B IY",
+        "vietlish": "niu-bi"
+    },
+    "news": {
+        "phoneme": "N-UW-Z",
+        "vietlish": "niu"
+    },
+    "newyork": {
+        "phoneme": "N UW Y AO R K",
+        "vietlish": "niu-doóc"
+    },
+    "nexus": {
+        "phoneme": "N EH K S AH S",
+        "vietlish": "ni-xút"
+    },
+    "ni": {
+        "phoneme": "N IY",
+        "vietlish": "ni"
+    },
+    "niami": {
+        "phoneme": "N AY AE M IY",
+        "vietlish": "ni-a-mi"
+    },
+    "nick": {
+        "phoneme": "N IH K",
+        "vietlish": "ních"
+    },
+    "nicolas": {
+        "phoneme": "N IH K AO L AH S",
+        "vietlish": "ni-cô-lát"
+    },
+    "nicole": {
+        "phoneme": "N IH K OW L",
+        "vietlish": "ni-cô"
+    },
+    "nier": {
+        "phoneme": "N IY ER",
+        "vietlish": "nia"
+    },
+    "nightography": {
+        "phoneme": "N AY T AA G R AH F IY",
+        "vietlish": "nai-tu-gờ-ráp-phi"
+    },
+    "nikhil": {
+        "phoneme": "N IH K HH IH L",
+        "vietlish": "ních-khiu"
+    },
+    "nikon": {
+        "phoneme": "N AY K AA N",
+        "vietlish": "ni-công"
+    },
+    "nile": {
+        "phoneme": "N AY L",
+        "vietlish": "nin"
+    },
+    "nintendo": {
+        "phoneme": "N IH N T EH N D OW",
+        "vietlish": "nin-ten-đô"
+    },
+    "nioh": {
+        "phoneme": "N IY OW",
+        "vietlish": "ni-âu"
+    },
+    "nitơ": {
+        "phoneme": "N IH T",
+        "vietlish": "ni-tơ"
+    },
+    "no": {
+        "phoneme": "N OW",
+        "vietlish": "nô"
+    },
+    "nokia": {
+        "phoneme": "N OW K IY AH",
+        "vietlish": "nô-ki-a"
+    },
+    "nomura": {
+        "phoneme": "N OW M UH R AH",
+        "vietlish": "nô-mu-ra"
+    },
+    "nord": {
+        "phoneme": "N AO R D",
+        "vietlish": "nót"
+    },
+    "north": {
+        "phoneme": "N AO R TH",
+        "vietlish": "nót"
+    },
+    "northeastern": {
+        "phoneme": "N AO R TH IY S T ER N",
+        "vietlish": "nót-ít-từn"
+    },
+    "note": {
+        "phoneme": "N OW T",
+        "vietlish": "nốt"
+    },
+    "nova": {
+        "phoneme": "N OW V AH",
+        "vietlish": "nô-va"
+    },
+    "now": {
+        "phoneme": "N AW",
+        "vietlish": "nao"
+    },
+    "nuyina": {
+        "phoneme": "N AY IY N AH",
+        "vietlish": "nuy-i-na"
+    },
+    "nvidia": {
+        "phoneme": "EH N V IH D IY AH",
+        "vietlish": "en-vi-đi-a"
+    },
+    "obesity": {
+        "phoneme": "AH B IY S AH T IY",
+        "vietlish": "ô-bi-si-đi"
+    },
+    "oblivion": {
+        "phoneme": "AH B L IH V IY AH N",
+        "vietlish": "o-bờ-li-vi-ần"
+    },
+    "observatories": {
+        "phoneme": "AH B Z ER V AH T AO R IY Z",
+        "vietlish": "óp-sờ-va-tơ-ri"
+    },
+    "ocean": {
+        "phoneme": "OW SH AH N",
+        "vietlish": "âu-sừn"
+    },
+    "of": {
+        "phoneme": "AH V",
+        "vietlish": "ợp"
+    },
+    "office": {
+        "phoneme": "AO F AH S",
+        "vietlish": "óp-phít"
+    },
+    "offline": {
+        "phoneme": "AO F L AY N",
+        "vietlish": "ọp-lai"
+    },
+    "oil": {
+        "phoneme": "OY L",
+        "vietlish": "o"
+    },
+    "okinawa": {
+        "phoneme": "OW K IH N AA W AH",
+        "vietlish": "ô-ki-na-goa"
+    },
+    "old": {
+        "phoneme": "OW L D",
+        "vietlish": "âu"
+    },
+    "oled": {
+        "phoneme": "OW L D",
+        "vietlish": "ô-lét"
+    },
+    "olympic": {
+        "phoneme": "OW L IH M P IH K",
+        "vietlish": "ô-lim-pích"
+    },
+    "omicron": {
+        "phoneme": "AA M AH K R AA N",
+        "vietlish": "ô-mi-cờ-rôn"
+    },
+    "omnia": {
+        "phoneme": "AA M N IY AH",
+        "vietlish": "ôm-ni-a"
+    },
+    "on": {
+        "phoneme": "AA N",
+        "vietlish": "on"
+    },
+    "one": {
+        "phoneme": "HH W AH N",
+        "vietlish": "goăn"
+    },
+    "oneplus": {
+        "phoneme": "W AH N P L AH S",
+        "vietlish": "oăn-pờ-lớt"
+    },
+    "ongbal": {
+        "phoneme": "AO NG B AH L",
+        "vietlish": "ong-ba"
+    },
+    "online": {
+        "phoneme": "AO N L AY N",
+        "vietlish": "on-lai"
+    },
+    "ontario": {
+        "phoneme": "AA N T EH R IY OW",
+        "vietlish": "ôn-ta-ri-ô"
+    },
+    "onychoteuthis": {
+        "phoneme": "OW N IH K OW T OY TH IH S",
+        "vietlish": "ô-ni-chô-tê-ô-dít"
+    },
+    "op": {
+        "phoneme": "AA P",
+        "vietlish": "ốp"
+    },
+    "open": {
+        "phoneme": "OW P AH N",
+        "vietlish": "âu-pừn"
+    },
+    "oppo": {
+        "phoneme": "AA P OW",
+        "vietlish": "ốp-pồ"
+    },
+    "optimus": {
+        "phoneme": "AA P T IH M AH S",
+        "vietlish": "ô-ti-mớt"
+    },
+    "oracel": {
+        "phoneme": "AO R AH S EH L",
+        "vietlish": "âu-ra-xeo"
+    },
+    "oracle": {
+        "phoneme": "AO R AH K AH L",
+        "vietlish": "o-rây-cồ"
+    },
+    "order": {
+        "phoneme": "AO R D ER",
+        "vietlish": "o-đờ"
+    },
+    "oresol": {
+        "phoneme": "AO R AH S AA L",
+        "vietlish": "ô-rê-sôn"
+    },
+    "orgin": {
+        "phoneme": "AO-R-JH-IH-N",
+        "vietlish": "o-ri-dừn"
+    },
+    "origin": {
+        "phoneme": "AO R AH JH AH N",
+        "vietlish": "o-rơ-dừn"
+    },
+    "original": {
+        "phoneme": "ER IH JH AH N AH L",
+        "vietlish": "o-ri-din-nờ"
+    },
+    "origins": {
+        "phoneme": "AO R AH JH IH N Z",
+        "vietlish": "o-ri-dừn"
+    },
+    "oscar": {
+        "phoneme": "AO S K ER",
+        "vietlish": "ốt-ca"
+    },
+    "otto": {
+        "phoneme": "AA T OW",
+        "vietlish": "ốt-tô"
+    },
+    "our": {
+        "phoneme": "AA R",
+        "vietlish": "ao-ờ"
+    },
+    "out": {
+        "phoneme": "AW T",
+        "vietlish": "ao"
+    },
+    "outdate": {
+        "phoneme": "AW T D EY T",
+        "vietlish": "ao-đết"
+    },
+    "owning": {
+        "phoneme": "OW N IH NG",
+        "vietlish": "ôn-ninh"
+    },
+    "oxide": {
+        "phoneme": "AA-K-S-AY-D",
+        "vietlish": "ô-xít"
+    },
+    "oxit": {
+        "phoneme": "AA K S AH T",
+        "vietlish": "ô-xít"
+    },
+    "oxy": {
+        "phoneme": "AA K S IY",
+        "vietlish": "ô-xi"
+    },
+    "packer": {
+        "phoneme": "P AE K ER",
+        "vietlish": "pách-cơ"
+    },
+    "pad": {
+        "phoneme": "P AE D",
+        "vietlish": "pát"
+    },
+    "painter": {
+        "phoneme": "P EY N ER",
+        "vietlish": "pên-tơ"
+    },
+    "paleocen": {
+        "phoneme": "P EY L IY AH S EH N",
+        "vietlish": "pa-li-ô-xen"
+    },
+    "paleogene": {
+        "phoneme": "P EY L IY AH JH IY N",
+        "vietlish": "pa-li-ô-gien"
+    },
+    "panasonic": {
+        "phoneme": "P AE N AH S AA N IH K",
+        "vietlish": "pa-na-sô-ních"
+    },
+    "park": {
+        "phoneme": "P AA R K",
+        "vietlish": "pác"
+    },
+    "parkinson": {
+        "phoneme": "P AA R K IH N S AH N",
+        "vietlish": "pa-kin-xơn"
+    },
+    "parkour": {
+        "phoneme": "P AA R K R",
+        "vietlish": "pác-co"
+    },
+    "passion": {
+        "phoneme": "P AE SH AH N",
+        "vietlish": "pát-sừn"
+    },
+    "paste": {
+        "phoneme": "P EY S T",
+        "vietlish": "pết"
+    },
+    "path": {
+        "phoneme": "P AE TH",
+        "vietlish": "pát"
+    },
+    "patrick": {
+        "phoneme": "P AE T R IH K",
+        "vietlish": "pa-trách"
+    },
+    "paul": {
+        "phoneme": "P AO L",
+        "vietlish": "pau"
+    },
+    "pcmag": {
+        "phoneme": "P IY AH K M AE G",
+        "vietlish": "pi-xi-mác"
+    },
+    "peak": {
+        "phoneme": "P IY K",
+        "vietlish": "pích"
+    },
+    "pealeii": {
+        "phoneme": "P IY L IY",
+        "vietlish": "pa-li"
+    },
+    "pearson": {
+        "phoneme": "P IH R S AH N",
+        "vietlish": "pia-sừn"
+    },
+    "peek": {
+        "phoneme": "P-IY-K",
+        "vietlish": "pích"
+    },
+    "penman": {
+        "phoneme": "P EH N M AH N",
+        "vietlish": "pen-man"
+    },
+    "perfect": {
+        "phoneme": "P ER F EH K T",
+        "vietlish": "pơ-phếch"
+    },
+    "perforin": {
+        "phoneme": "P ER F AO ER IH N",
+        "vietlish": "pơ-phô-rin"
+    },
+    "performance": {
+        "phoneme": "P ER F AO R M AH N S",
+        "vietlish": "pơ-pho-mần"
+    },
+    "peru": {
+        "phoneme": "P ER UW",
+        "vietlish": "pê-ru"
+    },
+    "peter": {
+        "phoneme": "P IY T ER",
+        "vietlish": "pi-tơ"
+    },
+    "petersen": {
+        "phoneme": "P IY T ER S AH N",
+        "vietlish": "pi-tơ-sen"
+    },
+    "pew": {
+        "phoneme": "P Y UW",
+        "vietlish": "piu"
+    },
+    "pfizer": {
+        "phoneme": "F AY Z ER",
+        "vietlish": "phai-dơ"
+    },
+    "phalodi": {
+        "phoneme": "F AH L OW D IY",
+        "vietlish": "pha-la-đi"
+    },
+    "phaneuf": {
+        "phoneme": "F AE N UW F",
+        "vietlish": "pha-niu"
+    },
+    "phil": {
+        "phoneme": "F IH L",
+        "vietlish": "phiu"
+    },
+    "philip": {
+        "phoneme": "F IH L AH P",
+        "vietlish": "phi-líp"
+    },
+    "philippines": {
+        "phoneme": "F IH L AH P IY N Z",
+        "vietlish": "phi-líp-pin"
+    },
+    "phone": {
+        "phoneme": "F OW N",
+        "vietlish": "phôn"
+    },
+    "physician": {
+        "phoneme": "F AH Z IH SH AH N",
+        "vietlish": "phi-dích-sừn"
+    },
+    "piaggio": {
+        "phoneme": "P IY AE JH IY OW",
+        "vietlish": "pi-a-di-ô"
+    },
+    "pichai": {
+        "phoneme": "P IH CH AY",
+        "vietlish": "pi-chai"
+    },
+    "pick": {
+        "phoneme": "P IH K",
+        "vietlish": "pích"
+    },
+    "pie": {
+        "phoneme": "P AY",
+        "vietlish": "pai"
+    },
+    "pikachu": {
+        "phoneme": "P IH K AA CH UW",
+        "vietlish": "pi-ca-chu"
+    },
+    "pininfarina": {
+        "phoneme": "P IH N IH N F AA R IY N AH",
+        "vietlish": "pi-ni-pha-ri-na"
+    },
+    "piscatella": {
+        "phoneme": "P IH S K AA T EH L AH",
+        "vietlish": "pít-ca-te-la"
+    },
+    "pixel": {
+        "phoneme": "P IH K S AH L",
+        "vietlish": "pích-xeo"
+    },
+    "pixelmon": {
+        "phoneme": "P IH K S EH L M AH N",
+        "vietlish": "pích-xeo-mần"
+    },
+    "placid": {
+        "phoneme": "P L AE S AH D",
+        "vietlish": "pờ-la-xít"
+    },
+    "plaid": {
+        "phoneme": "P L AE D",
+        "vietlish": "pờ-lết"
+    },
+    "plastic": {
+        "phoneme": "P L AE S T IH K",
+        "vietlish": "pờ-lát-tích"
+    },
+    "play": {
+        "phoneme": "P L EY",
+        "vietlish": "pờ-lây"
+    },
+    "player": {
+        "phoneme": "P L EY ER",
+        "vietlish": "pờ-lây-ờ"
+    },
+    "plus": {
+        "phoneme": "P L AH S",
+        "vietlish": "pờ-lớt"
+    },
+    "poco": {
+        "phoneme": "P OW K OW",
+        "vietlish": "pô-cô"
+    },
+    "pods": {
+        "phoneme": "P AA D Z",
+        "vietlish": "pót"
+    },
+    "point": {
+        "phoneme": "P OY N T",
+        "vietlish": "poi"
+    },
+    "polyethylene": {
+        "phoneme": "P AA L IY EH TH AH L IY N",
+        "vietlish": "pô-li-ê-ti-len"
+    },
+    "polyme": {
+        "phoneme": "P AA L IY M",
+        "vietlish": "pô-li-me"
+    },
+    "polypropylene": {
+        "phoneme": "P AA L IY P R OW P AH L IY N",
+        "vietlish": "pô-li-pờ-rô-pi-len"
+    },
+    "pool": {
+        "phoneme": "P UW L",
+        "vietlish": "pun"
+    },
+    "post": {
+        "phoneme": "P OW S T",
+        "vietlish": "pốt"
+    },
+    "pouard": {
+        "phoneme": "P UW AA ER D",
+        "vietlish": "pao-ợt"
+    },
+    "power": {
+        "phoneme": "P AW ER",
+        "vietlish": "pau-ờ"
+    },
+    "practice": {
+        "phoneme": "P R AE K T IH S",
+        "vietlish": "pờ-rách-tích"
+    },
+    "prayagraj": {
+        "phoneme": "P R AY AH G R AA JH",
+        "vietlish": "pờ-ra-da-gờ-rai"
+    },
+    "prints": {
+        "phoneme": "P R IH N T S",
+        "vietlish": "pờ-rin"
+    },
+    "private": {
+        "phoneme": "P R AY V AH T",
+        "vietlish": "pờ-rai-vết"
+    },
+    "pro": {
+        "phoneme": "P R OW",
+        "vietlish": "pờ-rồ"
+    },
+    "project": {
+        "phoneme": "P R AA JH EH K T",
+        "vietlish": "pờ-rô-dếch"
+    },
+    "projekt": {
+        "phoneme": "P R AA JH EH K T",
+        "vietlish": "pờ-rô-dếch"
+    },
+    "propan": {
+        "phoneme": "P R OW P AH N",
+        "vietlish": "pờ-rô-pan"
+    },
+    "protect": {
+        "phoneme": "P R AH T EH K T",
+        "vietlish": "pờ-rô-tếch"
+    },
+    "protein": {
+        "phoneme": "P R OW T IY N",
+        "vietlish": "pờ-rô-tê-in"
+    },
+    "psychology": {
+        "phoneme": "S AY K AA L AH JH IY",
+        "vietlish": "pi-xai-cô-lô-di"
+    },
+    "psyllophryne": {
+        "phoneme": "S IH L AH F R AY N",
+        "vietlish": "pi-sai-lô-phờ-rin"
+    },
+    "pubg": {
+        "phoneme": "P AH B G",
+        "vietlish": "pắp-di"
+    },
+    "pubmed": {
+        "phoneme": "P AH B M D",
+        "vietlish": "pắp"
+    },
+    "pug": {
+        "phoneme": "P AH G",
+        "vietlish": "pắc"
+    },
+    "pulex": {
+        "phoneme": "P UW L AH K S",
+        "vietlish": "pu-lếch"
+    },
+    "punishing": {
+        "phoneme": "P AH N IH SH IH NG",
+        "vietlish": "pu-nít-sinh"
+    },
+    "purifier": {
+        "phoneme": "P Y UH R AH F AY ER",
+        "vietlish": "piu-ri-phi-ơ"
+    },
+    "puzzle": {
+        "phoneme": "P AH Z AH L",
+        "vietlish": "pu-dồ"
+    },
+    "pyeongchang": {
+        "phoneme": "P AY AO NG CH AE NG",
+        "vietlish": "pi-ông-chang"
+    },
+    "qualcomm": {
+        "phoneme": "K W AA L K AA M",
+        "vietlish": "qua-com"
+    },
+    "quartz": {
+        "phoneme": "K W AO R T S",
+        "vietlish": "quát"
+    },
+    "queensland": {
+        "phoneme": "K W IY N Z L AE N D",
+        "vietlish": "quin-len"
+    },
+    "quest": {
+        "phoneme": "K W EH S T",
+        "vietlish": "quét"
+    },
+    "quick": {
+        "phoneme": "K W IH K",
+        "vietlish": "quích"
+    },
+    "qwerty": {
+        "phoneme": "K W ER T IY",
+        "vietlish": "quơ-ti"
+    },
+    "raccoon": {
+        "phoneme": "R AE K UW N",
+        "vietlish": "rắc-cun"
+    },
+    "race": {
+        "phoneme": "R EY S",
+        "vietlish": "rây"
+    },
+    "radium": {
+        "phoneme": "R EY D IY AH M",
+        "vietlish": "ra-đi-um"
+    },
+    "ragnarok": {
+        "phoneme": "R AE G N ER AA K",
+        "vietlish": "ra-na-rốc"
+    },
+    "rahman": {
+        "phoneme": "R AA M AH N",
+        "vietlish": "ra-man"
+    },
+    "rail": {
+        "phoneme": "R EY L",
+        "vietlish": "rêu"
+    },
+    "railway": {
+        "phoneme": "R EY L W EY",
+        "vietlish": "reo-guây"
+    },
+    "raimondo": {
+        "phoneme": "R EY M AA N D OW",
+        "vietlish": "rai-mô-đô"
+    },
+    "rainbow": {
+        "phoneme": "R EY N B OW",
+        "vietlish": "rên-bâu"
+    },
+    "rajasthan": {
+        "phoneme": "R AA JH AE S T AA N",
+        "vietlish": "ra-dát-tan"
+    },
+    "ranger": {
+        "phoneme": "R EY N JH ER",
+        "vietlish": "rên-dờ"
+    },
+    "rapper": {
+        "phoneme": "R AE P ER",
+        "vietlish": "ráp-pơ"
+    },
+    "raven": {
+        "phoneme": "R EY V AH N",
+        "vietlish": "ra-vần"
+    },
+    "reactive": {
+        "phoneme": "R IY AE K T IH V",
+        "vietlish": "rì-ắc-típ"
+    },
+    "recon": {
+        "phoneme": "R IY K AO N",
+        "vietlish": "ri-con"
+    },
+    "red": {
+        "phoneme": "R EH D",
+        "vietlish": "rét"
+    },
+    "redd": {
+        "phoneme": "R EH D",
+        "vietlish": "rết"
+    },
+    "reddit": {
+        "phoneme": "R EH D IH T",
+        "vietlish": "re-đít"
+    },
+    "redemption": {
+        "phoneme": "R IH D EH M P SH AH N",
+        "vietlish": "ri-đem-sần"
+    },
+    "redmi": {
+        "phoneme": "R EH D M IY",
+        "vietlish": "rét-mi"
+    },
+    "reeves": {
+        "phoneme": "R IY V Z",
+        "vietlish": "ri-vít"
+    },
+    "reincarnation": {
+        "phoneme": "R IY IH N K AA R N EY SH AH N",
+        "vietlish": "rên-ca-nây-sừn-nồ"
+    },
+    "remake": {
+        "phoneme": "R IY M EY K",
+        "vietlish": "ri-mếch"
+    },
+    "remaster": {
+        "phoneme": "R IY M AE S T ER",
+        "vietlish": "rì-mát-tơ"
+    },
+    "remote": {
+        "phoneme": "R IH M OW T",
+        "vietlish": "ri-mốt"
+    },
+    "renault": {
+        "phoneme": "R AH N OW",
+        "vietlish": "rì-no"
+    },
+    "reno": {
+        "phoneme": "R IY N OW",
+        "vietlish": "rê-nô"
+    },
+    "report": {
+        "phoneme": "R IH P AO R T",
+        "vietlish": "rì-pót"
+    },
+    "republic": {
+        "phoneme": "R IY P AH B L AH K",
+        "vietlish": "rì-pắp-lích"
+    },
+    "research": {
+        "phoneme": "R IY S ER CH",
+        "vietlish": "ri-sớt"
+    },
+    "respect": {
+        "phoneme": "R IH S P EH K T",
+        "vietlish": "rít-sờ-pếch"
+    },
+    "rest": {
+        "phoneme": "R EH S T",
+        "vietlish": "rét"
+    },
+    "resurrections": {
+        "phoneme": "R EH Z ER EH K SH AH N Z",
+        "vietlish": "ri-sơ-rếch-sừn"
+    },
+    "retro": {
+        "phoneme": "R EH T R OW",
+        "vietlish": "rì-châu"
+    },
+    "review": {
+        "phoneme": "R IY V Y UW",
+        "vietlish": "rì-viu"
+    },
+    "revolution": {
+        "phoneme": "R EH V AH L UW SH AH N",
+        "vietlish": "re-vô-lu-sừn"
+    },
+    "richard": {
+        "phoneme": "R IH CH ER D",
+        "vietlish": "rích-chác"
+    },
+    "ring": {
+        "phoneme": "R IH NG",
+        "vietlish": "rinh"
+    },
+    "riot": {
+        "phoneme": "R AY AH T",
+        "vietlish": "rai-ớt"
+    },
+    "ripley": {
+        "phoneme": "R IH P L IY",
+        "vietlish": "ríp-li"
+    },
+    "rise": {
+        "phoneme": "R AY Z",
+        "vietlish": "rai"
+    },
+    "roasters": {
+        "phoneme": "R OW S T ER Z",
+        "vietlish": "rốt-tờ"
+    },
+    "rob": {
+        "phoneme": "R AA B",
+        "vietlish": "róp"
+    },
+    "robert": {
+        "phoneme": "R AA B ER T",
+        "vietlish": "rô-bớt"
+    },
+    "robocraft": {
+        "phoneme": "R OW B OW K R AE F T",
+        "vietlish": "rô-bô-cờ-ráp"
+    },
+    "robot": {
+        "phoneme": "R OW B AA T",
+        "vietlish": "rô-bốt"
+    },
+    "rocconi": {
+        "phoneme": "R OW K OW N IY",
+        "vietlish": "rốc-cô-ni"
+    },
+    "rocket": {
+        "phoneme": "R AA K AH T",
+        "vietlish": "róc-kít"
+    },
+    "rogue": {
+        "phoneme": "R OW G",
+        "vietlish": "ru"
+    },
+    "ronin": {
+        "phoneme": "R OW N IH N",
+        "vietlish": "rô-nin"
+    },
+    "room": {
+        "phoneme": "R UW M",
+        "vietlish": "rum"
+    },
+    "root": {
+        "phoneme": "R UW T",
+        "vietlish": "rút"
+    },
+    "rooting": {
+        "phoneme": "R UW T IH NG",
+        "vietlish": "rút-tinh"
+    },
+    "rouge": {
+        "phoneme": "R UW ZH",
+        "vietlish": "ru"
+    },
+    "rousettus": {
+        "phoneme": "R UW S EH T AH S",
+        "vietlish": "ru-sê-tút"
+    },
+    "royale": {
+        "phoneme": "R OY AE L",
+        "vietlish": "rai-a"
+    },
+    "rune": {
+        "phoneme": "R UW N",
+        "vietlish": "run"
+    },
+    "rust": {
+        "phoneme": "R AH S T",
+        "vietlish": "rút"
+    },
+    "ryuta": {
+        "phoneme": "R Y UW T AH",
+        "vietlish": "ru-ta"
+    },
+    "ryzen": {
+        "phoneme": "R IH Z AH N",
+        "vietlish": "ri-rừn"
+    },
+    "sacrifice": {
+        "phoneme": "S AE K R AH F AY S",
+        "vietlish": "xác-cờ-ri-phai"
+    },
+    "sadofsky": {
+        "phoneme": "S AH D AO F S K IY",
+        "vietlish": "san-đốp-ki"
+    },
+    "saga": {
+        "phoneme": "S AA G AH",
+        "vietlish": "sa-ga"
+    },
+    "sagittarius": {
+        "phoneme": "S AE JH IH T EH R IY AH S",
+        "vietlish": "se-di-ta-ri-ớt"
+    },
+    "salon": {
+        "phoneme": "S AH L AA N",
+        "vietlish": "sa-lông"
+    },
+    "salsa": {
+        "phoneme": "S AA L S AH",
+        "vietlish": "sa-sa"
+    },
+    "salt": {
+        "phoneme": "S AO L T",
+        "vietlish": "so"
+    },
+    "sammobile": {
+        "phoneme": "S AE M OW B IY L",
+        "vietlish": "sam-mô-bai"
+    },
+    "sammy": {
+        "phoneme": "S AE M IY",
+        "vietlish": "sam-mi"
+    },
+    "samsung": {
+        "phoneme": "S AE M S AH NG",
+        "vietlish": "sam-sung"
+    },
+    "sandra": {
+        "phoneme": "S AE N D R AH",
+        "vietlish": "san-đừ-ra"
+    },
+    "santa": {
+        "phoneme": "S AE N AH",
+        "vietlish": "san-ta"
+    },
+    "sapkowski": {
+        "phoneme": "S AH P K AO F S K IY",
+        "vietlish": "sáp-cô-sờ-ki"
+    },
+    "sapporo": {
+        "phoneme": "S AH P AO R OW",
+        "vietlish": "sa-pô-rô"
+    },
+    "sarah": {
+        "phoneme": "S EH R AH",
+        "vietlish": "xa-ra"
+    },
+    "sarcoma": {
+        "phoneme": "S AA R K OW M ER",
+        "vietlish": "xác-cô-ma"
+    },
+    "sars": {
+        "phoneme": "S AA R Z",
+        "vietlish": "sát"
+    },
+    "save": {
+        "phoneme": "S EY V",
+        "vietlish": "xếp"
+    },
+    "scam": {
+        "phoneme": "S K AE M",
+        "vietlish": "sờ-cam"
+    },
+    "scandal": {
+        "phoneme": "S K AE N D AH L",
+        "vietlish": "sờ-ken-đồ"
+    },
+    "scape": {
+        "phoneme": "S K EY P",
+        "vietlish": "sờ-kếp"
+    },
+    "science": {
+        "phoneme": "S AY AH N S",
+        "vietlish": "sai-ừn"
+    },
+    "sciencealert": {
+        "phoneme": "S AY AH N S IY L ER T",
+        "vietlish": "sai-ừn-sô-ớt"
+    },
+    "sciences": {
+        "phoneme": "S-AY-AH-N-S-AH-Z",
+        "vietlish": "sai-ừn"
+    },
+    "scotland": {
+        "phoneme": "S K AA T L AH N D",
+        "vietlish": "sờ-cốt-len"
+    },
+    "screen": {
+        "phoneme": "S K R IY N",
+        "vietlish": "sờ-cờ-rin"
+    },
+    "scrolls": {
+        "phoneme": "S K R OW L Z",
+        "vietlish": "cờ-râu"
+    },
+    "sea": {
+        "phoneme": "S-IY",
+        "vietlish": "si"
+    },
+    "seclect": {
+        "phoneme": "S IH K L EH K T",
+        "vietlish": "xê-lếch"
+    },
+    "sedan": {
+        "phoneme": "S AH D AE N",
+        "vietlish": "sơ-đăng"
+    },
+    "seed": {
+        "phoneme": "S IY D",
+        "vietlish": "xít"
+    },
+    "seeding": {
+        "phoneme": "S IY D IH NG",
+        "vietlish": "sít-đinh"
+    },
+    "sega": {
+        "phoneme": "S EY G AH",
+        "vietlish": "sê-ga"
+    },
+    "sekiro": {
+        "phoneme": "S IH K IH R OW",
+        "vietlish": "sê-ki-rô"
+    },
+    "select": {
+        "phoneme": "S-AH-L-EH-K-T",
+        "vietlish": "sê-lếch"
+    },
+    "selfie": {
+        "phoneme": "S EH L F IY",
+        "vietlish": "seo-phi"
+    },
+    "semiconductor": {
+        "phoneme": "S EH M AY K AH N D AH K T ER",
+        "vietlish": "sê-mi-cần-đắc-tờ"
+    },
+    "senua": {
+        "phoneme": "S EH N Y UW AH",
+        "vietlish": "xe-niu-a"
+    },
+    "sepioidea": {
+        "phoneme": "S IY P IY OY D IY AH",
+        "vietlish": "se-pi-ô-i-đê-a"
+    },
+    "sepioteuthis": {
+        "phoneme": "S EH P IY OW T UW TH IH S",
+        "vietlish": "se-pi-ô-tê-ô-dít"
+    },
+    "sequel": {
+        "phoneme": "S IY K W AH L",
+        "vietlish": "sét-quơ"
+    },
+    "series": {
+        "phoneme": "S IH R IY Z",
+        "vietlish": "sê-ri"
+    },
+    "server": {
+        "phoneme": "S ER V ER",
+        "vietlish": "se-vờ"
+    },
+    "sette": {
+        "phoneme": "S EH T",
+        "vietlish": "sét-tê"
+    },
+    "shackleton": {
+        "phoneme": "SH AE K AH L T AH N",
+        "vietlish": "sác-lê-tơn"
+    },
+    "shadows": {
+        "phoneme": "SH AE D OW Z",
+        "vietlish": "sa-đâu"
+    },
+    "shangrila": {
+        "phoneme": "SH AE NG G R IH L AH",
+        "vietlish": "sang-ruy-la"
+    },
+    "shaun": {
+        "phoneme": "SH AO N",
+        "vietlish": "so"
+    },
+    "shifty": {
+        "phoneme": "SH IH F T IY",
+        "vietlish": "síp-ti"
+    },
+    "shooter": {
+        "phoneme": "SH UW T ER",
+        "vietlish": "sút-tơ"
+    },
+    "shot": {
+        "phoneme": "SH AA T",
+        "vietlish": "sót"
+    },
+    "showroom": {
+        "phoneme": "SH OW R UH M",
+        "vietlish": "sâu-rum"
+    },
+    "shuffle": {
+        "phoneme": "SH AH F AH L",
+        "vietlish": "sắp-pồ"
+    },
+    "siege": {
+        "phoneme": "S IY JH",
+        "vietlish": "xi"
+    },
+    "sifu": {
+        "phoneme": "S IY F UW",
+        "vietlish": "si-phu"
+    },
+    "sila": {
+        "phoneme": "S IY L AH",
+        "vietlish": "si-la"
+    },
+    "silicate": {
+        "phoneme": "S IH L AH K AH T",
+        "vietlish": "si-li-kết"
+    },
+    "silicon": {
+        "phoneme": "S IH L AH K AH N",
+        "vietlish": "si-li-côn"
+    },
+    "simone": {
+        "phoneme": "S IH M OW N",
+        "vietlish": "si-mon"
+    },
+    "sin": {
+        "phoneme": "S IH N",
+        "vietlish": "xin"
+    },
+    "singapore": {
+        "phoneme": "S IH NG AH P AO R",
+        "vietlish": "sinh-ga-po"
+    },
+    "single": {
+        "phoneme": "S IH NG G AH L",
+        "vietlish": "sinh-gồ"
+    },
+    "siri": {
+        "phoneme": "S IH R IY",
+        "vietlish": "xi-ri"
+    },
+    "sith": {
+        "phoneme": "S IH TH",
+        "vietlish": "sít"
+    },
+    "six": {
+        "phoneme": "S IH K S",
+        "vietlish": "xích"
+    },
+    "skiing": {
+        "phoneme": "S K IY IH NG",
+        "vietlish": "ki-inh"
+    },
+    "skirmish": {
+        "phoneme": "S K ER M IH SH",
+        "vietlish": "sờ-cơ-mít"
+    },
+    "sky": {
+        "phoneme": "S K AY",
+        "vietlish": "sờ-cai"
+    },
+    "skyline": {
+        "phoneme": "S K AY L AY N",
+        "vietlish": "sờ-cai-lai"
+    },
+    "slash": {
+        "phoneme": "S L AE SH",
+        "vietlish": "sờ-lát"
+    },
+    "slate": {
+        "phoneme": "S L EY T",
+        "vietlish": "sờ-lết"
+    },
+    "sliding": {
+        "phoneme": "S L AY D IH NG",
+        "vietlish": "sờ-lít-đinh"
+    },
+    "sling": {
+        "phoneme": "S L IH NG",
+        "vietlish": "sờ-linh"
+    },
+    "sloclap": {
+        "phoneme": "S L OW K L AH P",
+        "vietlish": "sờ-lâu-cờ-láp"
+    },
+    "smart": {
+        "phoneme": "S M AA R T",
+        "vietlish": "sờ-mát"
+    },
+    "smartphone": {
+        "phoneme": "S M AA R T F OW N",
+        "vietlish": "sờ-mát-phôn"
+    },
+    "smartwatch": {
+        "phoneme": "S M AA R T W AA CH",
+        "vietlish": "sờ-mát-goắt"
+    },
+    "smektala": {
+        "phoneme": "S M EH K T AH L AH",
+        "vietlish": "sờ-mét-ta-lờ"
+    },
+    "smith": {
+        "phoneme": "S M IH TH",
+        "vietlish": "sờ-mít"
+    },
+    "smithsonian": {
+        "phoneme": "S M IH S OW N IY AH N",
+        "vietlish": "sờ-mít-sô-ni-ần"
+    },
+    "snapdragon": {
+        "phoneme": "S N AE P D R AE G AH N",
+        "vietlish": "sờ-náp-đờ-ra-gần"
+    },
+    "snoop": {
+        "phoneme": "S N UW P",
+        "vietlish": "sờ-núp"
+    },
+    "snow": {
+        "phoneme": "S N OW",
+        "vietlish": "nao"
+    },
+    "sochi": {
+        "phoneme": "S OW CH IY",
+        "vietlish": "sô-chi"
+    },
+    "society": {
+        "phoneme": "S OW S AY IH T IY",
+        "vietlish": "sâu-sai-ờ-ti"
+    },
+    "software": {
+        "phoneme": "S AO F T W EH R",
+        "vietlish": "sóp-goe"
+    },
+    "softwhere": {
+        "phoneme": "S AO F W EH R",
+        "vietlish": "sóp-goe"
+    },
+    "sohio": {
+        "phoneme": "S OW HH AY OW",
+        "vietlish": "sô-hi-ô"
+    },
+    "sohu": {
+        "phoneme": "S OW HH UW",
+        "vietlish": "sô-hu"
+    },
+    "sonar": {
+        "phoneme": "S OW N AA R",
+        "vietlish": "sô-na"
+    },
+    "sonic": {
+        "phoneme": "S AA N IH K",
+        "vietlish": "sô-ních"
+    },
+    "sony": {
+        "phoneme": "S-OW-N-IY",
+        "vietlish": "sô-ni"
+    },
+    "soul": {
+        "phoneme": "S-OW-L",
+        "vietlish": "sâu"
+    },
+    "souls": {
+        "phoneme": "S OW L Z",
+        "vietlish": "sâu"
+    },
+    "south": {
+        "phoneme": "S AW TH",
+        "vietlish": "sao"
+    },
+    "spa": {
+        "phoneme": "S P AA",
+        "vietlish": "sờ-pa"
+    },
+    "space": {
+        "phoneme": "S P EY S",
+        "vietlish": "sờ-pây"
+    },
+    "spacex": {
+        "phoneme": "S P EY S AH K S",
+        "vietlish": "sờ-pây-ích"
+    },
+    "spencer": {
+        "phoneme": "S P EH N S ER",
+        "vietlish": "sờ-pen-sờ"
+    },
+    "sports": {
+        "phoneme": "S P AO R T S",
+        "vietlish": "sờ-pót"
+    },
+    "squadrons": {
+        "phoneme": "S K W AA D R AH N Z",
+        "vietlish": "sờ-qua-đờ-rừn"
+    },
+    "square": {
+        "phoneme": "S K W EH R",
+        "vietlish": "sờ-que"
+    },
+    "srinivasan": {
+        "phoneme": "SH R IY N IY V AA S AA N",
+        "vietlish": "sờ-ri-ni-vơ-san"
+    },
+    "stalker": {
+        "phoneme": "S T AO K ER",
+        "vietlish": "sờ-tác-cờ"
+    },
+    "standard": {
+        "phoneme": "S T AE N D ER D",
+        "vietlish": "sờ-ten-đờ"
+    },
+    "stanford": {
+        "phoneme": "S T AE N F ER D",
+        "vietlish": "sen-phoóc"
+    },
+    "stanley": {
+        "phoneme": "S T AE N L IY",
+        "vietlish": "sờ-ta-lây"
+    },
+    "star": {
+        "phoneme": "S T AA R",
+        "vietlish": "sờ-ta"
+    },
+    "starlink": {
+        "phoneme": "S T AA R L IH NG K",
+        "vietlish": "sờ-ta-linh"
+    },
+    "start": {
+        "phoneme": "S-T-AA-R-T",
+        "vietlish": "sờ-tát"
+    },
+    "startup": {
+        "phoneme": "S T AA R T AH P",
+        "vietlish": "sờ-tát-ắp"
+    },
+    "stat": {
+        "phoneme": "S T AE T",
+        "vietlish": "sờ-tát"
+    },
+    "station": {
+        "phoneme": "S T EY SH AH N",
+        "vietlish": "sây-từn"
+    },
+    "status": {
+        "phoneme": "S T AE T AH S",
+        "vietlish": "sờ-ta-tớt"
+    },
+    "stealth": {
+        "phoneme": "S T EH L TH",
+        "vietlish": "sờ-tiu"
+    },
+    "steam": {
+        "phoneme": "S T IY M",
+        "vietlish": "sờ-tim"
+    },
+    "stephanie": {
+        "phoneme": "S T EH F AH N IY",
+        "vietlish": "sờ-tép-phan-ni"
+    },
+    "stephen": {
+        "phoneme": "S T IY V AH N",
+        "vietlish": "ti-phừn"
+    },
+    "stereo": {
+        "phoneme": "S T EH R IY OW",
+        "vietlish": "sờ-tia-ri-ô"
+    },
+    "stiller": {
+        "phoneme": "S T IH L ER",
+        "vietlish": "sờ-tin-lơ"
+    },
+    "store": {
+        "phoneme": "S T AO R",
+        "vietlish": "sờ-to"
+    },
+    "storm": {
+        "phoneme": "S T AO R M",
+        "vietlish": "sờ-tôm"
+    },
+    "story": {
+        "phoneme": "S T AO R IY",
+        "vietlish": "sờ-to-ri"
+    },
+    "stranding": {
+        "phoneme": "S T R AE N D IH NG",
+        "vietlish": "sờ-tran-đinh"
+    },
+    "stratasys": {
+        "phoneme": "S T R AE T AH S IH Z",
+        "vietlish": "tra-ta-xít"
+    },
+    "stray": {
+        "phoneme": "S T R EY",
+        "vietlish": "sờ-trây"
+    },
+    "stream": {
+        "phoneme": "S T R IY M",
+        "vietlish": "sờ-truym"
+    },
+    "streamer": {
+        "phoneme": "S T R IY M ER",
+        "vietlish": "sờ-trim-mơ"
+    },
+    "street": {
+        "phoneme": "S T R IY T",
+        "vietlish": "sờ-truýt"
+    },
+    "stress": {
+        "phoneme": "S T R EH S",
+        "vietlish": "xờ-chét"
+    },
+    "strike": {
+        "phoneme": "S T R AY K",
+        "vietlish": "sờ-trai"
+    },
+    "studio": {
+        "phoneme": "S T UW D IY OW",
+        "vietlish": "sờ-tiu-đi-ô"
+    },
+    "studios": {
+        "phoneme": "S-T-UW-D-IY-OW-Z",
+        "vietlish": "sờ-tu-đi-ô"
+    },
+    "style": {
+        "phoneme": "S T AY L",
+        "vietlish": "sờ-tai"
+    },
+    "subs": {
+        "phoneme": "S AH B Z",
+        "vietlish": "sắp"
+    },
+    "sundar": {
+        "phoneme": "S UW N D AA R",
+        "vietlish": "săn-đơ"
+    },
+    "super": {
+        "phoneme": "S UW P ER",
+        "vietlish": "xiu-pơ"
+    },
+    "superpipe": {
+        "phoneme": "S UW P ER P AY P",
+        "vietlish": "súp-pờ-pai"
+    },
+    "support": {
+        "phoneme": "S AH P AO R T",
+        "vietlish": "sắp-pót"
+    },
+    "surface": {
+        "phoneme": "S ER F AH S",
+        "vietlish": "sơ-phây"
+    },
+    "surround": {
+        "phoneme": "S ER AW N D",
+        "vietlish": "sơ-rao"
+    },
+    "swan": {
+        "phoneme": "S W AA N",
+        "vietlish": "sờ-goan"
+    },
+    "swarm": {
+        "phoneme": "S W AO R M",
+        "vietlish": "sờ-goam"
+    },
+    "sweeney": {
+        "phoneme": "S W IY N IY",
+        "vietlish": "sờ-guy-ni"
+    },
+    "switch": {
+        "phoneme": "S W IH CH",
+        "vietlish": "sờ-guýt"
+    },
+    "sydney": {
+        "phoneme": "S IH D N IY",
+        "vietlish": "sít-ni"
+    },
+    "syme": {
+        "phoneme": "S AY M",
+        "vietlish": "xim"
+    },
+    "tab": {
+        "phoneme": "T AE B",
+        "vietlish": "táp"
+    },
+    "tablet": {
+        "phoneme": "T AE B L AH T",
+        "vietlish": "táp-lét"
+    },
+    "tactical": {
+        "phoneme": "T AE K T IH K AH L",
+        "vietlish": "thác-thi-cồ"
+    },
+    "take": {
+        "phoneme": "T EY K",
+        "vietlish": "thếch"
+    },
+    "takes": {
+        "phoneme": "T-EY-K-S",
+        "vietlish": "tếch"
+    },
+    "tanis": {
+        "phoneme": "T AE N IH S",
+        "vietlish": "ta-nít"
+    },
+    "tanzania": {
+        "phoneme": "T AE N Z AH N IY AH",
+        "vietlish": "tan-da-ni-a"
+    },
+    "taptap": {
+        "phoneme": "T AE P T AE P",
+        "vietlish": "táp-táp"
+    },
+    "taro": {
+        "phoneme": "T EH R OW",
+        "vietlish": "ta-rô"
+    },
+    "tasmania": {
+        "phoneme": "T AE Z M EY N IY AH",
+        "vietlish": "tát-ma-ni-a"
+    },
+    "team": {
+        "phoneme": "T IY M",
+        "vietlish": "tim"
+    },
+    "tech": {
+        "phoneme": "T EH K",
+        "vietlish": "tếch"
+    },
+    "techland": {
+        "phoneme": "T EH K L AH N D",
+        "vietlish": "tếch-len"
+    },
+    "technics": {
+        "phoneme": "T EH K N IH K S",
+        "vietlish": "tếch-ních"
+    },
+    "technologies": {
+        "phoneme": "T EH K N AA L AH JH IY Z",
+        "vietlish": "tếch-no-lo-dít"
+    },
+    "technology": {
+        "phoneme": "T EH K N AA L AH JH IY",
+        "vietlish": "thếch-no-lo-di"
+    },
+    "tektite": {
+        "phoneme": "T EH K T AY T",
+        "vietlish": "thếch-thai"
+    },
+    "tele": {
+        "phoneme": "T EH L AH",
+        "vietlish": "tê-lê"
+    },
+    "telescope": {
+        "phoneme": "T EH L AH S K OW P",
+        "vietlish": "te-le-sờ-cốp"
+    },
+    "tencent": {
+        "phoneme": "T EH N S AH N T",
+        "vietlish": "ten-xen"
+    },
+    "tensor": {
+        "phoneme": "T EH N S ER",
+        "vietlish": "ten-sờ"
+    },
+    "terephthalate": {
+        "phoneme": "T EH ER AH F TH AH L EY T",
+        "vietlish": "tê-rê-phờ-ta-lết"
+    },
+    "tesla": {
+        "phoneme": "T EH S L AH",
+        "vietlish": "tét-la"
+    },
+    "test": {
+        "phoneme": "T-EH-S-T",
+        "vietlish": "tét"
+    },
+    "testosteron": {
+        "phoneme": "T EH S T AA S T ER AH N",
+        "vietlish": "tét-tốt-tơ-rôn"
+    },
+    "testosterone": {
+        "phoneme": "T-EH-S-T-AA-S-T-ER-OW-N",
+        "vietlish": "tét-tốt-tơ-rôn"
+    },
+    "texas": {
+        "phoneme": "T-EH-K-S-AH-S",
+        "vietlish": "tếch-xác"
+    },
+    "thach": {
+        "phoneme": "TH AE CH",
+        "vietlish": "thạch"
+    },
+    "the": {
+        "phoneme": "DH AH",
+        "vietlish": "dờ"
+    },
+    "theft": {
+        "phoneme": "TH EH F T",
+        "vietlish": "thép"
+    },
+    "thes": {
+        "phoneme": "DH EH S",
+        "vietlish": "thét"
+    },
+    "thescelosaurus": {
+        "phoneme": "TH-EH-S-EH-L-AH-S-AO-R-AH-S",
+        "vietlish": "thét-sê-lo-sau-rút"
+    },
+    "thinq": {
+        "phoneme": "TH IH NG K",
+        "vietlish": "thin-kiu"
+    },
+    "thomas": {
+        "phoneme": "T AA M AH S",
+        "vietlish": "thô-mát"
+    },
+    "thunder": {
+        "phoneme": "TH AH N D ER",
+        "vietlish": "thăn-đờ"
+    },
+    "tick": {
+        "phoneme": "T IH K",
+        "vietlish": "tích"
+    },
+    "tim": {
+        "phoneme": "T IH M",
+        "vietlish": "tim"
+    },
+    "time": {
+        "phoneme": "T AY M",
+        "vietlish": "tham"
+    },
+    "times": {
+        "phoneme": "T AY M Z",
+        "vietlish": "tham"
+    },
+    "titan": {
+        "phoneme": "T AY T AH N",
+        "vietlish": "ti-tan"
+    },
+    "title": {
+        "phoneme": "T AY T AH L",
+        "vietlish": "thai-thồ"
+    },
+    "tivi": {
+        "phoneme": "T-IY-V-IY",
+        "vietlish": "ti-vi"
+    },
+    "to": {
+        "phoneme": "T AH",
+        "vietlish": "tuýt-tơ"
+    },
+    "tock": {
+        "phoneme": "T AA K",
+        "vietlish": "tóc"
+    },
+    "tof": {
+        "phoneme": "T AA F",
+        "vietlish": "tu-ép"
+    },
+    "token": {
+        "phoneme": "T OW K AH N",
+        "vietlish": "tốc-cừn"
+    },
+    "tony": {
+        "phoneme": "T OW N IY",
+        "vietlish": "tô-ni"
+    },
+    "top": {
+        "phoneme": "T AA P",
+        "vietlish": "tóp"
+    },
+    "totem": {
+        "phoneme": "T OW T AH M",
+        "vietlish": "thâu-thừm"
+    },
+    "touch": {
+        "phoneme": "T AH CH",
+        "vietlish": "tát"
+    },
+    "tour": {
+        "phoneme": "T UH R",
+        "vietlish": "tua"
+    },
+    "tower": {
+        "phoneme": "T AW ER",
+        "vietlish": "thao-ơ"
+    },
+    "toy": {
+        "phoneme": "T OY",
+        "vietlish": "thoi"
+    },
+    "toyota": {
+        "phoneme": "T OW Y OW T AH",
+        "vietlish": "tô-dô-ta"
+    },
+    "trailer": {
+        "phoneme": "T R EY L ER",
+        "vietlish": "trai-lờ"
+    },
+    "transistor": {
+        "phoneme": "T R AE N Z IH S T ER",
+        "vietlish": "tran-xít-tơ"
+    },
+    "treble": {
+        "phoneme": "T R EH B AH L",
+        "vietlish": "choa-bồ"
+    },
+    "tricalcium": {
+        "phoneme": "T R IH K AE L S IY AH M",
+        "vietlish": "tờ-ri-can-xi-um"
+    },
+    "triglyceride": {
+        "phoneme": "T R AY G L IH S ER AY D",
+        "vietlish": "tri-cồ-li-xê-rích"
+    },
+    "tripod": {
+        "phoneme": "T R AY P AA D",
+        "vietlish": "trai-pót"
+    },
+    "tripsy": {
+        "phoneme": "T R IH P S IY",
+        "vietlish": "tríp-si"
+    },
+    "trust": {
+        "phoneme": "T R AH S T",
+        "vietlish": "chớt"
+    },
+    "turnbase": {
+        "phoneme": "T ER N B EY S",
+        "vietlish": "tơn-bây"
+    },
+    "tweet": {
+        "phoneme": "T W IY T",
+        "vietlish": "tuýt"
+    },
+    "twelve": {
+        "phoneme": "T W EH L V",
+        "vietlish": "cheo"
+    },
+    "twice": {
+        "phoneme": "T W AY S",
+        "vietlish": "choai"
+    },
+    "twitch": {
+        "phoneme": "T W IH CH",
+        "vietlish": "tuýt"
+    },
+    "twitter": {
+        "phoneme": "T W IH T ER",
+        "vietlish": "tuýt-tơ"
+    },
+    "two": {
+        "phoneme": "T UW",
+        "vietlish": "tu"
+    },
+    "tyme": {
+        "phoneme": "T-AY-M",
+        "vietlish": "tim-mi"
+    },
+    "tymon": {
+        "phoneme": "T AY M AH N",
+        "vietlish": "thai-mần"
+    },
+    "type": {
+        "phoneme": "T AY P",
+        "vietlish": "thai"
+    },
+    "ubisoft": {
+        "phoneme": "Y UW B IH S AO F T",
+        "vietlish": "diu-bi-sóp"
+    },
+    "uganda": {
+        "phoneme": "Y UW G AA N D AA",
+        "vietlish": "u-gan-đa"
+    },
+    "ukraine": {
+        "phoneme": "Y UW K R EY N",
+        "vietlish": "diu-cờ-rên"
+    },
+    "ulti": {
+        "phoneme": "AH L T IY",
+        "vietlish": "un-ti"
+    },
+    "ultra": {
+        "phoneme": "AH L T R AH",
+        "vietlish": "un-tra"
+    },
+    "ultrawide": {
+        "phoneme": "AH L T R AH W AY D",
+        "vietlish": "u-tra-goai"
+    },
+    "undead": {
+        "phoneme": "AH N D EH D",
+        "vietlish": "ăn-đét"
+    },
+    "undecember": {
+        "phoneme": "AH N D IH S EH M B ER",
+        "vietlish": "ăn-đì-xem-bờ"
+    },
+    "underhive": {
+        "phoneme": "AH N D ER HH IH V",
+        "vietlish": "ăn-đơ-hai"
+    },
+    "united": {
+        "phoneme": "Y UW N AY T AH D",
+        "vietlish": "iu-nai-tựt"
+    },
+    "unlock": {
+        "phoneme": "AH N L AA K",
+        "vietlish": "ăn-lốc"
+    },
+    "unpacked": {
+        "phoneme": "AH N P AE K T",
+        "vietlish": "ăn-pách-kít"
+    },
+    "unreal": {
+        "phoneme": "AH N R IY L",
+        "vietlish": "ăn-riu"
+    },
+    "until": {
+        "phoneme": "AH N T IH L",
+        "vietlish": "ăn-tiu"
+    },
+    "unturned": {
+        "phoneme": "AH N T ER N D",
+        "vietlish": "ăn-tơn"
+    },
+    "up": {
+        "phoneme": "AH P",
+        "vietlish": "cắp"
+    },
+    "update": {
+        "phoneme": "AH-P-D-EY-T",
+        "vietlish": "ắp-đết"
+    },
+    "uranium": {
+        "phoneme": "Y ER EY N IY AH M",
+        "vietlish": "u-ra-ni-um"
+    },
+    "us": {
+        "phoneme": "AH S",
+        "vietlish": "dớt"
+    },
+    "used": {
+        "phoneme": "Y UW Z D",
+        "vietlish": "diu"
+    },
+    "vaccine": {
+        "phoneme": "V-AE-K-S-IY-N",
+        "vietlish": "vắc-xin"
+    },
+    "valeant": {
+        "phoneme": "V EY L IY AH N T",
+        "vietlish": "va-lừn"
+    },
+    "valhalla": {
+        "phoneme": "V AE L HH AE L AH",
+        "vietlish": "ve-ha-la"
+    },
+    "valor": {
+        "phoneme": "V AE L ER",
+        "vietlish": "vây-lờ"
+    },
+    "valorant": {
+        "phoneme": "V AE L ER AH N T",
+        "vietlish": "ve-lô-rừn"
+    },
+    "valve": {
+        "phoneme": "V AE L V",
+        "vietlish": "vang"
+    },
+    "van": {
+        "phoneme": "V AE N",
+        "vietlish": "van"
+    },
+    "vancas": {
+        "phoneme": "V AE NG K AH S",
+        "vietlish": "van-cát"
+    },
+    "vanced": {
+        "phoneme": "V AE N S T",
+        "vietlish": "van"
+    },
+    "vanderford": {
+        "phoneme": "V AE N D ER F ER D",
+        "vietlish": "van-đê-phót"
+    },
+    "vanguard": {
+        "phoneme": "V AE N G AA R D",
+        "vietlish": "van-gát"
+    },
+    "venkat": {
+        "phoneme": "V EH N K AH T",
+        "vietlish": "ven-cát"
+    },
+    "venti": {
+        "phoneme": "V EH N T IY",
+        "vietlish": "ven-ti"
+    },
+    "venue": {
+        "phoneme": "V EH N Y UW",
+        "vietlish": "ve-niu"
+    },
+    "vesemir": {
+        "phoneme": "V EH S AH M IH R",
+        "vietlish": "vi-sờ-mơ"
+    },
+    "veston": {
+        "phoneme": "V EH S T AH N",
+        "vietlish": "vét-từn"
+    },
+    "veterancheats": {
+        "phoneme": "V EH T ER AH N CH IY T S",
+        "vietlish": "vê-tơ-rừn-chít"
+    },
+    "vice": {
+        "phoneme": "V AY S",
+        "vietlish": "vai"
+    },
+    "victoria": {
+        "phoneme": "V IH K T AO R IY AH",
+        "vietlish": "vích-to-ri-a"
+    },
+    "video": {
+        "phoneme": "V IH D IY OW",
+        "vietlish": "vi-đi-ô"
+    },
+    "view": {
+        "phoneme": "V Y UW",
+        "vietlish": "viu"
+    },
+    "viexim": {
+        "phoneme": "V IY EH K S IH M",
+        "vietlish": "vi-e-xim"
+    },
+    "villains": {
+        "phoneme": "V IH L AH N Z",
+        "vietlish": "vi-lên"
+    },
+    "vincom": {
+        "phoneme": "V IH NG K AA M",
+        "vietlish": "vin-com"
+    },
+    "vinfast": {
+        "phoneme": "V IH N F AE S T",
+        "vietlish": "vin-phát"
+    },
+    "vingroup": {
+        "phoneme": "V IH NG G R UW P",
+        "vietlish": "vin-rúp"
+    },
+    "vinhomes": {
+        "phoneme": "V IH N HH OW M Z",
+        "vietlish": "vin-hôm"
+    },
+    "vinmart": {
+        "phoneme": "V IH N M AA R T",
+        "vietlish": "vin-mát"
+    },
+    "vinmec": {
+        "phoneme": "V IH N M EH K",
+        "vietlish": "vin-mếch"
+    },
+    "vinpearl": {
+        "phoneme": "V IH N P ER L",
+        "vietlish": "vin-pơ"
+    },
+    "vinschool": {
+        "phoneme": "V IH N S K UW L",
+        "vietlish": "vin-sờ-cu"
+    },
+    "vinsmart": {
+        "phoneme": "V IH N S M AA R T",
+        "vietlish": "vin-sờ-mát"
+    },
+    "vinuni": {
+        "phoneme": "V IY N UW N IY",
+        "vietlish": "vin-iu-ni"
+    },
+    "virginia": {
+        "phoneme": "V ER JH IH N Y AH",
+        "vietlish": "vơ-di-ni-a"
+    },
+    "virus": {
+        "phoneme": "V AY R AH S",
+        "vietlish": "vi-rút"
+    },
+    "viruss": {
+        "phoneme": "V AY R AH S",
+        "vietlish": "vai-rớt"
+    },
+    "vision": {
+        "phoneme": "V IH ZH AH N",
+        "vietlish": "vi-dừn"
+    },
+    "visual": {
+        "phoneme": "V IH ZH AH W AH L",
+        "vietlish": "vi-dùa"
+    },
+    "vitamin": {
+        "phoneme": "V AY T AH M AH N",
+        "vietlish": "vi-ta-min"
+    },
+    "vivo": {
+        "phoneme": "V IY V OW",
+        "vietlish": "vi-vô"
+    },
+    "volume": {
+        "phoneme": "V AA L Y UW M",
+        "vietlish": "vô-lum"
+    },
+    "voucher": {
+        "phoneme": "V AW CH ER",
+        "vietlish": "vâu-chờ"
+    },
+    "vs": {
+        "phoneme": "V-ER-S-AH-Z",
+        "vietlish": "vơ-sút"
+    },
+    "vuvuzela": {
+        "phoneme": "V UW V AH Z EY L AH",
+        "vietlish": "vu-vu-dê-la"
+    },
+    "wafer": {
+        "phoneme": "W EY F ER",
+        "vietlish": "guây-phơ"
+    },
+    "wall": {
+        "phoneme": "W AO L",
+        "vietlish": "gua"
+    },
+    "wang": {
+        "phoneme": "W AE NG",
+        "vietlish": "goang"
+    },
+    "war": {
+        "phoneme": "W AO R",
+        "vietlish": "gua"
+    },
+    "warren": {
+        "phoneme": "W-AO-R-AH-N",
+        "vietlish": "goa-rừn"
+    },
+    "warrent": {
+        "phoneme": "W AO R AH N T",
+        "vietlish": "goa-rừn"
+    },
+    "wars": {
+        "phoneme": "W AO R Z",
+        "vietlish": "gua"
+    },
+    "warzone": {
+        "phoneme": "W AO R Z OW N IY",
+        "vietlish": "gua-dôn"
+    },
+    "washington": {
+        "phoneme": "W AA SH IH NG T AH N",
+        "vietlish": "goa-sinh-tơn"
+    },
+    "waste": {
+        "phoneme": "W EY S T",
+        "vietlish": "guết"
+    },
+    "watch": {
+        "phoneme": "W-AA-CH",
+        "vietlish": "goắt"
+    },
+    "watchos": {
+        "phoneme": "W AA CH OW Z",
+        "vietlish": "goát-ô-ét"
+    },
+    "waterloo": {
+        "phoneme": "W AO T ER L UW",
+        "vietlish": "goát-tờ-lu"
+    },
+    "waves": {
+        "phoneme": "W EY V Z",
+        "vietlish": "guây"
+    },
+    "way": {
+        "phoneme": "W EY",
+        "vietlish": "guây"
+    },
+    "we": {
+        "phoneme": "W IY",
+        "vietlish": "guy"
+    },
+    "wearable": {
+        "phoneme": "W EH R AH B AH L",
+        "vietlish": "goe-ơ-bồ"
+    },
+    "weave": {
+        "phoneme": "W IY V",
+        "vietlish": "guy"
+    },
+    "web": {
+        "phoneme": "W EH B",
+        "vietlish": "goép"
+    },
+    "webb": {
+        "phoneme": "W EH B",
+        "vietlish": "goép"
+    },
+    "webcam": {
+        "phoneme": "W EH B K AH M",
+        "vietlish": "goép-cam"
+    },
+    "weber": {
+        "phoneme": "W EH B ER",
+        "vietlish": "guy-bơ"
+    },
+    "website": {
+        "phoneme": "W EH B S AY T",
+        "vietlish": "goép-sai"
+    },
+    "weddell": {
+        "phoneme": "W EH D AH L",
+        "vietlish": "goét-đeo"
+    },
+    "whatsapp": {
+        "phoneme": "HH W AH T S AE P",
+        "vietlish": "goát-sáp"
+    },
+    "whoop": {
+        "phoneme": "HH W UW P",
+        "vietlish": "gúp"
+    },
+    "widget": {
+        "phoneme": "W IH JH IH T",
+        "vietlish": "guýt-ghét"
+    },
+    "wifi": {
+        "phoneme": "W IY F IY",
+        "vietlish": "goai-phai"
+    },
+    "wii": {
+        "phoneme": "W IY",
+        "vietlish": "guy"
+    },
+    "wild": {
+        "phoneme": "W AY L D",
+        "vietlish": "goai"
+    },
+    "william": {
+        "phoneme": "W IH L Y AH M",
+        "vietlish": "guy-li-am"
+    },
+    "wilson": {
+        "phoneme": "W IH L S AH N",
+        "vietlish": "guyn-xơn"
+    },
+    "windows": {
+        "phoneme": "W IH N D OW Z",
+        "vietlish": "guyn-đâu"
+    },
+    "wing": {
+        "phoneme": "W IH NG",
+        "vietlish": "guynh"
+    },
+    "winters": {
+        "phoneme": "W IH N T ER Z",
+        "vietlish": "guyn-tờ"
+    },
+    "wired": {
+        "phoneme": "W AY ER D",
+        "vietlish": "goai-ờ"
+    },
+    "wireless": {
+        "phoneme": "W AY R L IH S",
+        "vietlish": "goai-lít"
+    },
+    "wisconsin": {
+        "phoneme": "W IH S K AA N S AH N",
+        "vietlish": "guyn-con-xin"
+    },
+    "witcher": {
+        "phoneme": "W IH CH ER",
+        "vietlish": "guýt-chờ"
+    },
+    "wolf": {
+        "phoneme": "W UH L F",
+        "vietlish": "guôm"
+    },
+    "world": {
+        "phoneme": "W ER L D",
+        "vietlish": "gua"
+    },
+    "worlds": {
+        "phoneme": "W ER L D Z",
+        "vietlish": "gua"
+    },
+    "xemesis": {
+        "phoneme": "Z EH M AH S AH S",
+        "vietlish": "xe-mê-sít"
+    },
+    "xiaomi": {
+        "phoneme": "ZH AW OW M IY",
+        "vietlish": "xeo-mi"
+    },
+    "xilinx": {
+        "phoneme": "Z AY L IH NG K S",
+        "vietlish": "xi-linh"
+    },
+    "xingkong": {
+        "phoneme": "Z SH IH NG K AO NG",
+        "vietlish": "xinh-công"
+    },
+    "yahoo": {
+        "phoneme": "Y AA HH UW",
+        "vietlish": "da-hu"
+    },
+    "yamaha": {
+        "phoneme": "Y AA M AA HH AA",
+        "vietlish": "i-a-ma-ha"
+    },
+    "yasda": {
+        "phoneme": "Y AA S D AH",
+        "vietlish": "i-át-đa"
+    },
+    "yoko": {
+        "phoneme": "Y OW K OW",
+        "vietlish": "dô-cô"
+    },
+    "york": {
+        "phoneme": "Y AO R K",
+        "vietlish": "doóc"
+    },
+    "yorkers": {
+        "phoneme": "Y AO R K ER Z",
+        "vietlish": "gioóc-cơ"
+    },
+    "yosuke": {
+        "phoneme": "Y OW S UW K EY",
+        "vietlish": "dô-su-kê"
+    },
+    "youtube": {
+        "phoneme": "Y UW T UW B",
+        "vietlish": "diu-túp"
+    },
+    "youtuber": {
+        "phoneme": "Y UW T UW B ER",
+        "vietlish": "diu-túp-bơ"
+    },
+    "yucatan": {
+        "phoneme": "Y-UW-K-AH-T-AE-N",
+        "vietlish": "giu-các-ta"
+    },
+    "yucatán": {
+        "phoneme": "Y UW K AH T N",
+        "vietlish": "du-các-ta"
+    },
+    "zealand": {
+        "phoneme": "Z IY L AH N D",
+        "vietlish": "di-lân"
+    },
+    "zenon": {
+        "phoneme": "Z IY N AH N",
+        "vietlish": "de-nừn"
+    },
+    "zezima": {
+        "phoneme": "Z EH Z IY M AH",
+        "vietlish": "dê-di-ma"
+    },
+    "zika": {
+        "phoneme": "Z IH K AH",
+        "vietlish": "di-ca"
+    },
+    "zombie": {
+        "phoneme": "Z AA M B IY",
+        "vietlish": "dum-bi"
+    },
+    "zone": {
+        "phoneme": "Z OW N",
+        "vietlish": "dôn"
+    },
+    "zoom": {
+        "phoneme": "Z UW M",
+        "vietlish": "dum"
+    },
+    "zoonosis": {
+        "phoneme": "Z UW N OW S AH S",
+        "vietlish": "dô-nơ-sít"
+    },
+    "zozogo": {
+        "phoneme": "Z OW Z OW G OW",
+        "vietlish": "dô-dô-gô"
+    },
+    "zune": {
+        "phoneme": "Z UW N",
+        "vietlish": "dun"
+    },
+    "zynga": {
+        "phoneme": "Z IH NG AH",
+        "vietlish": "din-ga"
+    }
+}

@@ -526,7 +526,7 @@ class AbsTask(ABC):
             "--keep_nbest_models",
             type=int,
             nargs="+",
-            default=[10],
+            default=[5],
             help="Remove previous snapshots excluding the n-best scored epochs",
         )
         group.add_argument(
@@ -588,7 +588,7 @@ class AbsTask(ABC):
         group.add_argument(
             "--log_interval",
             type=int_or_none,
-            default=None,
+            default=10,
             help="Show the logs every the number iterations in each epochs at the "
             "training phase. If None is given, it is decided according the number "
             "of training samples automatically .",
@@ -614,7 +614,7 @@ class AbsTask(ABC):
         group.add_argument(
             "--use_wandb",
             type=str2bool,
-            default=False,
+            default=True,
             help="Enable wandb logging",
         )
         group.add_argument(
@@ -1461,7 +1461,7 @@ class AbsTask(ABC):
                         id=args.wandb_id,
                         resume=args.resume,
                     )
-                    wandb.config.update(args)
+                    wandb.config.update(args, allow_val_change=True)
                 else:
                     # wandb also supports grouping for distributed training,
                     # but we only logs aggregated data,
